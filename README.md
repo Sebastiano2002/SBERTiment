@@ -1,5 +1,4 @@
-# SBERTiment: A New Pipeline to Solve Aspect Based Sentiment Analysis in the
-Zero-Shot Setting
+# SBERTiment: A New Pipeline to Solve Aspect Based Sentiment Analysis in the Zero-Shot Setting
 
 In this repo you can find the code to reproduce the experiments described in the
 paper **SBERTiment: A New Pipeline to Solve Aspect Based Sentiment Analysis in the

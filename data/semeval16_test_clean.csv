@@ -1,0 +1,860 @@
+text,target,sample_id,review_id,lang,range,aspect_category,sentiment,from,to
+Yum!,,1,1,EN,"[0,0)",food#quality,POSITIVE,0,0
+Serves really good sushi.,sushi,2,1,EN,"[19,24)",food#quality,POSITIVE,19,24
+Not the biggest portions but adequate.,portions,3,1,EN,"[16,24)",food#style_options,NEUTRAL,16,24
+Green Tea creme brulee is a must!,Green Tea creme brulee,4,1,EN,"[0,22)",food#quality,POSITIVE,0,22
+Don't leave the restaurant without it.,,5,1,EN,"[0,0)",food#quality,POSITIVE,0,0
+No Comparison,,6,2,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– I can't say enough about this place.,place,7,2,EN,"[32,37)",restaurant#general,POSITIVE,32,37
+It has great sushi and even better service.,sushi,8,2,EN,"[13,18)",food#quality,POSITIVE,13,18
+It has great sushi and even better service.,service,8,2,EN,"[35,42)",service#general,POSITIVE,35,42
+The entire staff was extremely accomodating and tended to my every need.,staff,9,2,EN,"[11,16)",service#general,POSITIVE,11,16
+I've been to this restaurant over a dozen times with no complaints to date.,restaurant,10,2,EN,"[18,28)",restaurant#general,POSITIVE,18,28
+Snotty Attitude,,11,3,EN,"[0,0)",service#general,NEGATIVE,0,0
+– We were treated very rudely here one time for breakfast.,,12,3,EN,"[0,0)",service#general,NEGATIVE,0,0
+The owner is belligerent to guests that have a complaint.,owner,13,3,EN,"[4,9)",service#general,NEGATIVE,4,9
+Good food!,food,14,4,EN,"[5,9)",food#quality,POSITIVE,5,9
+This is a great place to get a delicious meal.,meal,16,4,EN,"[41,45)",food#quality,POSITIVE,41,45
+We never had to wait more than 5 minutes.,,17,4,EN,"[0,0)",service#general,POSITIVE,0,0
+The staff is pretty friendly.,staff,18,4,EN,"[4,9)",service#general,POSITIVE,4,9
+The onion rings are great!,onion rings,19,4,EN,"[4,15)",food#quality,POSITIVE,4,15
+They are not greasy or anything.,,20,4,EN,"[0,0)",food#quality,POSITIVE,0,0
+Overrated,,21,5,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+– I was highly disappointed in the food at Pagoda.,food,22,5,EN,"[35,39)",food#quality,NEGATIVE,35,39
+"The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.",lemon chicken,23,5,EN,"[4,17)",food#quality,NEGATIVE,4,17
+"The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.",honey walnut prawns,23,5,EN,"[58,77)",food#quality,NEGATIVE,58,77
+"The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.",honey walnut prawns,23,5,EN,"[58,77)",food#style_options,NEGATIVE,58,77
+"Nice ambience, but highly overrated place.",ambience,25,5,EN,"[5,13)",ambience#general,POSITIVE,5,13
+"Nice ambience, but highly overrated place.",place,25,5,EN,"[36,41)",restaurant#general,NEGATIVE,36,41
+I will not go back.,,26,5,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Worst Service I Ever Had,Service,27,6,EN,"[6,13)",service#general,POSITIVE,6,13
+Everyone that sat in the back outside agreed that it was the worst service we had ever received.,service,29,6,EN,"[67,74)",service#general,NEGATIVE,67,74
+"Our waiter was non-existent and after our food finally arrived over an hour after we ordered, we were not given any water or utensils.",waiter,30,6,EN,"[4,10)",service#general,NEGATIVE,4,10
+"I complained to the manager, but he was not even apologetic.",manager,31,6,EN,"[20,27)",service#general,NEGATIVE,20,27
+I will never return again.,,32,6,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Fabulous Italian Food!,Italian Food,33,7,EN,"[9,21)",food#quality,POSITIVE,9,21
+– I highly recommend Mioposto.,Mioposto,34,7,EN,"[21,29)",restaurant#general,POSITIVE,21,29
+I am so happy to have a wonderful Italian restaurant in my neighborhood.,Italian restaurant,35,7,EN,"[34,52)",restaurant#general,POSITIVE,34,52
+The wine list is wonderful and the food reminds me of my recent trip to Italy.,wine list,36,7,EN,"[4,13)",drinks#style_options,POSITIVE,4,13
+The wine list is wonderful and the food reminds me of my recent trip to Italy.,food,36,7,EN,"[35,39)",food#quality,POSITIVE,35,39
+I love this restaurant,restaurant,37,8,EN,"[12,22)",restaurant#general,POSITIVE,12,22
+"– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",meal,38,8,EN,"[34,38)",food#quality,POSITIVE,34,38
+"– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",service,38,8,EN,"[40,47)",service#general,POSITIVE,40,47
+"– I will never forget the amazing meal, service, and ambiance I experience at this restaurant.",ambiance,38,8,EN,"[53,61)",ambience#general,POSITIVE,53,61
+It was absolutely amazing.,,39,8,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",wine list,40,8,EN,"[4,13)",drinks#style_options,POSITIVE,4,13
+"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",food,40,8,EN,"[59,63)",food#quality,POSITIVE,59,63
+"The wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.",staff,40,8,EN,"[90,95)",service#general,POSITIVE,90,95
+I have not a bad thing to say about this place.,place,41,8,EN,"[41,46)",restaurant#general,POSITIVE,41,46
+AMAZING.,,42,8,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+I cannot wait to go back again this coming weekend!,,43,8,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Mmm... good!,,44,9,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+The food was great!,food,47,9,EN,"[4,8)",food#quality,POSITIVE,4,8
+"It's *very* reasonably priced, esp for the quality of the food.",food,48,9,EN,"[58,62)",food#prices,POSITIVE,58,62
+"It's *very* reasonably priced, esp for the quality of the food.",food,48,9,EN,"[58,62)",food#quality,POSITIVE,58,62
+I had the Kafta plate and it was perfect.,Kafta plate,49,9,EN,"[10,21)",food#quality,POSITIVE,10,21
+We're going back. :D,,50,9,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Finally a meal that you will remember for a long time!,meal,51,10,EN,"[10,14)",food#quality,POSITIVE,10,14
+"– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.",food,52,10,EN,"[139,143)",food#quality,POSITIVE,139,143
+"– In a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.",service,52,10,EN,"[153,160)",service#general,POSITIVE,153,160
+This is the place to relax and enjoy the finest quality food the industry can offer.,place,53,10,EN,"[12,17)",ambience#general,POSITIVE,12,17
+This is the place to relax and enjoy the finest quality food the industry can offer.,food,53,10,EN,"[56,60)",food#quality,POSITIVE,56,60
+Caution - its real food for people who love the best.,food,54,10,EN,"[19,23)",food#quality,POSITIVE,19,23
+Very Disappointing,,57,11,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+– I took my parents here for their anniversary-very very disappointed!!!,,58,11,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+I liked the atmosphere very much but the food was not worth the price.,atmosphere,59,11,EN,"[12,22)",ambience#general,POSITIVE,12,22
+I liked the atmosphere very much but the food was not worth the price.,food,59,11,EN,"[41,45)",food#quality,NEGATIVE,41,45
+I liked the atmosphere very much but the food was not worth the price.,food,59,11,EN,"[41,45)",food#prices,NEGATIVE,41,45
+I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it.,food,60,11,EN,"[54,58)",food#quality,NEGATIVE,54,58
+"Rice is too dry, tuna wasn't so fresh either.",Rice,61,11,EN,"[0,4)",food#quality,NEGATIVE,0,4
+"Rice is too dry, tuna wasn't so fresh either.",tuna,61,11,EN,"[17,21)",food#quality,NEGATIVE,17,21
+Nothing really came across as outstanding.,,62,11,EN,"[0,0)",food#quality,NEGATIVE,0,0
+Very disappointed.,,63,11,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+I have eaten here three times and have found the quality and variety of the fish to be excellent.,fish,64,12,EN,"[76,80)",food#quality,POSITIVE,76,80
+I have eaten here three times and have found the quality and variety of the fish to be excellent.,fish,64,12,EN,"[76,80)",food#style_options,POSITIVE,76,80
+"However, the value and service are both severely lacking.",service,65,12,EN,"[23,30)",service#general,NEGATIVE,23,30
+"However, the value and service are both severely lacking.",,65,12,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+"Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.",fish,67,12,EN,"[23,27)",food#quality,POSITIVE,23,27
+"Furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicably bland.",rolls,67,12,EN,"[53,58)",food#quality,NEGATIVE,53,58
+The service ranges from mediocre to offensive.,service,68,12,EN,"[4,11)",service#general,NEGATIVE,4,11
+"On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.",waiter,69,12,EN,"[22,28)",service#general,NEGATIVE,22,28
+"On a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby.",staff members,69,12,EN,"[80,93)",service#general,NEGATIVE,80,93
+We were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.,,70,12,EN,"[0,0)",service#general,NEGATIVE,0,0
+Freshest sushi  – I love this restaurant.,sushi,72,13,EN,"[9,14)",food#quality,POSITIVE,9,14
+Freshest sushi  – I love this restaurant.,restaurant,72,13,EN,"[30,40)",restaurant#general,POSITIVE,30,40
+They pay such detail to everything from miso soup to complex rolls.,miso soup,73,13,EN,"[40,49)",food#quality,POSITIVE,40,49
+They pay such detail to everything from miso soup to complex rolls.,rolls,73,13,EN,"[61,66)",food#quality,POSITIVE,61,66
+The sashimi was the freshest and most tender I have ever tasted.,sashimi,74,13,EN,"[4,11)",food#quality,POSITIVE,4,11
+Their apps are all delicious.,apps,75,13,EN,"[6,10)",food#quality,POSITIVE,6,10
+The only drawback is that this place is really expensive and the portions are on the small side.,place,76,13,EN,"[31,36)",restaurant#prices,NEGATIVE,31,36
+The only drawback is that this place is really expensive and the portions are on the small side.,portions,76,13,EN,"[65,73)",food#style_options,NEGATIVE,65,73
+"But the space is small and lovely, and the service is helpful.",space,77,13,EN,"[8,13)",ambience#general,POSITIVE,8,13
+"But the space is small and lovely, and the service is helpful.",service,77,13,EN,"[43,50)",service#general,POSITIVE,43,50
+You are bound to have a very charming time.,,78,13,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Not recommanded!!!,,79,14,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+– The food was not great & the waiters were rude.,food,80,14,EN,"[6,10)",food#quality,NEGATIVE,6,10
+– The food was not great & the waiters were rude.,waiters,80,14,EN,"[31,38)",service#general,NEGATIVE,31,38
+It is not worth going at all and spend your money there!!!,,81,14,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+great service,service,82,15,EN,"[6,13)",service#general,POSITIVE,6,13
+– Pretty cheap for sit down Mexican AND downtown.,,83,15,EN,"[0,0)",restaurant#prices,POSITIVE,0,0
+– Pretty cheap for sit down Mexican AND downtown.,,83,15,EN,"[0,0)",location#general,POSITIVE,0,0
+my service was stellar!,service,84,15,EN,"[3,10)",service#general,POSITIVE,3,10
+the bus boy even spotted that my table was shaking a stabilized it for me.,bus boy,85,15,EN,"[4,11)",service#general,POSITIVE,4,11
+"food was fine, with a some little-tastier-than-normal salsa.",food,86,15,EN,"[0,4)",food#quality,POSITIVE,0,4
+"food was fine, with a some little-tastier-than-normal salsa.",salsa,86,15,EN,"[54,59)",food#quality,POSITIVE,54,59
+If you're in the area you shouldn't be disappointed.,,87,15,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Ok.... – Maybe I went in on someone's bad day....,,88,16,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+"the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.",food,89,16,EN,"[4,8)",food#quality,POSITIVE,4,8
+"the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.",margaritas,89,16,EN,"[24,34)",drinks#quality,POSITIVE,24,34
+"the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.",waitress,89,16,EN,"[47,55)",service#general,NEGATIVE,47,55
+"Took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.",,90,16,EN,"[0,0)",service#general,NEGATIVE,0,0
+I don't know if I'll be back....,,91,16,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place.,pizza place,92,17,EN,"[77,88)",restaurant#general,POSITIVE,77,88
+"the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.",pizza,93,17,EN,"[51,56)",food#quality,NEGATIVE,51,56
+"BUt once done, it's not too much dough, not too much cheese, not too much sauce.",,94,17,EN,"[0,80)",food#quality,POSITIVE,0,80
+Best Sushi in town.,Sushi,95,18,EN,"[5,10)",food#quality,POSITIVE,5,10
+"Everything you want and more, very fresh.",,97,18,EN,"[0,0)",food#quality,POSITIVE,0,0
+"Everything you want and more, very fresh.",,97,18,EN,"[0,0)",food#style_options,POSITIVE,0,0
+"Its worth the wait, especially since they'll give you a call when the table is ready.",,98,18,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Its worth the wait, especially since they'll give you a call when the table is ready.",,98,18,EN,"[0,0)",service#general,POSITIVE,0,0
+The best calamari in Seattle!,calamari,99,19,EN,"[9,17)",food#quality,POSITIVE,9,17
+– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.,deck,100,19,EN,"[29,33)",ambience#general,POSITIVE,29,33
+– ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the Seattle evening weather.,,100,19,EN,"[0,0)",service#general,POSITIVE,0,0
+A perfect place to take out of town guests any time of the year.,place,101,19,EN,"[10,15)",restaurant#general,POSITIVE,10,15
+"Endless fun, awesome music, great staff!!!",music,102,20,EN,"[21,26)",ambience#general,POSITIVE,21,26
+"Endless fun, awesome music, great staff!!!",staff,102,20,EN,"[34,39)",service#general,POSITIVE,34,39
+"Endless fun, awesome music, great staff!!!",,102,20,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– By far the best bar in the east village...,bar,103,20,EN,"[18,21)",restaurant#general,POSITIVE,18,21
+I went there with some friends one night to play bingo and watch the sox game and it was a blast!,,104,20,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Every time ""0-sixtynine"" is called the bartender buys everyone drinks!",bartender,105,20,EN,"[39,48)",service#general,POSITIVE,39,48
+Been there lots since and its always a good time.,,106,20,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Great draft and bottle selection and the pizza rocks.,pizza,107,20,EN,"[41,46)",food#quality,POSITIVE,41,46
+Great draft and bottle selection and the pizza rocks.,draft and bottle selection,107,20,EN,"[6,32)",drinks#style_options,POSITIVE,6,32
+Definitely has one of the best jukebox's i've seen in a long long time.,jukebox's,108,20,EN,"[31,40)",ambience#general,POSITIVE,31,40
+I FOUND A NEW HOME ON SECOND AVENUE!!!!!!!!!!!!,,109,21,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Just go there and see for yourself.,,112,21,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"The food is great, the bartenders go that extra mile.",food,113,21,EN,"[4,8)",food#quality,POSITIVE,4,8
+"The food is great, the bartenders go that extra mile.",bartenders,113,21,EN,"[23,33)",service#general,POSITIVE,23,33
+"You need to watch your game, they will have it on for you.",,114,21,EN,"[0,0)",service#general,POSITIVE,0,0
+The owners are great fun and the beer selection is worth staying for.,owners,115,21,EN,"[4,10)",service#general,POSITIVE,4,10
+The owners are great fun and the beer selection is worth staying for.,beer selection,115,21,EN,"[33,47)",drinks#style_options,POSITIVE,33,47
+And the upstairs is a great place to hang out.,upstairs,116,21,EN,"[8,16)",ambience#general,POSITIVE,8,16
+"Not alot of smoking places left in New York, but I have found my favorite smoking balconey in the city.",balconey,117,21,EN,"[82,90)",restaurant#miscellaneous,POSITIVE,82,90
+Kudos to these guys.,,118,21,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+I found a new home and just moved with a long lease.,,119,21,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+The sushi here is delicious!,sushi,122,22,EN,"[4,9)",food#quality,POSITIVE,4,9
+They have a wide variety of fish and they even list which oceans they come from; Atlantic or Pacific.,fish,123,22,EN,"[28,32)",food#style_options,POSITIVE,28,32
+"I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.",Jellyfish,124,22,EN,"[13,22)",food#quality,POSITIVE,13,22
+"I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.",Horse Mackerel,124,22,EN,"[24,38)",food#quality,POSITIVE,24,38
+"I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.",Blue Fin Tuna,124,22,EN,"[40,53)",food#quality,POSITIVE,40,53
+"I've had the Jellyfish, Horse Mackerel, Blue Fin Tuna and the Sake Ikura roll among others, and they were all good.",Sake Ikura roll,124,22,EN,"[62,77)",food#quality,POSITIVE,62,77
+My only negative comment is that I wish the pieces were a little bigger.,pieces,125,22,EN,"[44,50)",food#style_options,NEGATIVE,44,50
+"The decor is rustic, traditional Japanese.",decor,126,22,EN,"[4,9)",ambience#general,NEUTRAL,4,9
+"The crowd is mixed yuppies, young and old.",crowd,127,22,EN,"[4,9)",restaurant#miscellaneous,NEUTRAL,4,9
+The service was courteous and attentive.,service,128,22,EN,"[4,11)",service#general,POSITIVE,4,11
+Mediocre food,food,129,23,EN,"[9,13)",food#quality,NEUTRAL,9,13
+The outside patio area has an abbreviated menu.,menu,131,23,EN,"[42,46)",food#style_options,NEUTRAL,42,46
+My g/f and I both agreed the food was very mediocre especially considering the price.,food,133,23,EN,"[29,33)",food#quality,NEGATIVE,29,33
+My g/f and I both agreed the food was very mediocre especially considering the price.,food,133,23,EN,"[29,33)",food#prices,NEGATIVE,29,33
+"We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.",food,134,23,EN,"[86,90)",food#quality,NEGATIVE,86,90
+"We are locals, and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists.",place,134,23,EN,"[53,58)",restaurant#general,NEGATIVE,53,58
+Service was decent.,Service,135,23,EN,"[0,7)",service#general,NEUTRAL,0,7
+Drinks were good.,Drinks,136,23,EN,"[0,6)",drinks#quality,POSITIVE,0,6
+Unless you are just stopping in for a few drinks I wouldn't recommend going here.,drinks,137,23,EN,"[42,48)",drinks#quality,POSITIVE,42,48
+Unless you are just stopping in for a few drinks I wouldn't recommend going here.,,137,23,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+You are likely to be disappointed.,,138,23,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+"Excellent food, nice ambience, fairly expensive",food,139,24,EN,"[10,14)",food#quality,POSITIVE,10,14
+"Excellent food, nice ambience, fairly expensive",ambience,139,24,EN,"[21,29)",ambience#general,POSITIVE,21,29
+"Excellent food, nice ambience, fairly expensive",,139,24,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,pumpkin ravioli,140,24,EN,"[14,29)",food#quality,POSITIVE,14,29
+– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,goat cheese gnocchi,140,24,EN,"[38,57)",food#quality,POSITIVE,38,57
+– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,goat cheese gnocchi,140,24,EN,"[38,57)",food#style_options,POSITIVE,38,57
+– I loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her filet mignon on top of spinach and mashed potatoes.,filet mignon on top of spinach and mashed potatoes,140,24,EN,"[142,192)",food#quality,POSITIVE,142,192
+The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney.,ambiance,141,24,EN,"[4,12)",ambience#general,POSITIVE,4,12
+"It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.",,142,24,EN,"[0,0)",ambience#general,POSITIVE,0,0
+"It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.",artwork,142,24,EN,"[83,90)",ambience#general,POSITIVE,83,90
+"It was romantic - and even nice even with my sister, reminded me of Italy, and had artwork and music that kept up the feeling of being in a Mediterrean villa.",music,142,24,EN,"[95,100)",ambience#general,POSITIVE,95,100
+I recommend it for a night when you want to splurge! (it was a bit expensive),,143,24,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+I recommend it for a night when you want to splurge! (it was a bit expensive),,143,24,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+Best Indian food in L.A.,Indian food,144,25,EN,"[5,16)",food#quality,POSITIVE,5,16
+"The best thing is, the prices are also quite reasonable.",,146,25,EN,"[0,0)",restaurant#prices,POSITIVE,0,0
+The chicken curry and chicken tikka masala are my favorite meat dishes.,chicken curry,147,25,EN,"[4,17)",food#quality,POSITIVE,4,17
+The chicken curry and chicken tikka masala are my favorite meat dishes.,chicken tikka masala,147,25,EN,"[22,42)",food#quality,POSITIVE,22,42
+The chana masala (garbanzo beans) are also excellent.,chana masala (garbanzo beans),148,25,EN,"[4,33)",food#quality,POSITIVE,4,33
+"It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.",location,149,25,EN,"[71,79)",location#general,NEUTRAL,71,79
+"It's located in a strip mall near the Beverly Center, not the greatest location, but the food keeps me coming back for more.",food,149,25,EN,"[89,93)",food#quality,POSITIVE,89,93
+hidden little jem,,150,26,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– tucked away over by the Beverly Center.,,151,26,EN,"[0,0)",location#general,NEUTRAL,0,0
+Never too crowded and always great service.,service,152,26,EN,"[35,42)",service#general,POSITIVE,35,42
+Never too crowded and always great service.,,152,26,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+I think I have probably tried each item on their menu at least once it is all excellent.,menu,153,26,EN,"[49,53)",food#quality,POSITIVE,49,53
+I can highly recommend their various saag and paneer and korma.,saag,154,26,EN,"[37,41)",food#quality,POSITIVE,37,41
+I can highly recommend their various saag and paneer and korma.,paneer,154,26,EN,"[46,52)",food#quality,POSITIVE,46,52
+I can highly recommend their various saag and paneer and korma.,korma,154,26,EN,"[57,62)",food#quality,POSITIVE,57,62
+"You routinely see Indian families and friends dining there, which is always a good sign.",,155,26,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+I appreciate their delivery too.,delivery,156,26,EN,"[19,27)",service#general,POSITIVE,19,27
+Nice food but no spice!,food,157,27,EN,"[5,9)",food#quality,POSITIVE,5,9
+Nice food but no spice!,food,157,27,EN,"[5,9)",food#quality,NEGATIVE,5,9
+– I really enjoyed my meal here.,meal,158,27,EN,"[22,26)",food#quality,POSITIVE,22,26
+"I had yummy lamb korma, saag paneer, samosas, naan, etc.",lamb korma,159,27,EN,"[12,22)",food#quality,POSITIVE,12,22
+"I had yummy lamb korma, saag paneer, samosas, naan, etc.",saag paneer,159,27,EN,"[24,35)",food#quality,POSITIVE,24,35
+"I had yummy lamb korma, saag paneer, samosas, naan, etc.",samosas,159,27,EN,"[37,44)",food#quality,POSITIVE,37,44
+"I had yummy lamb korma, saag paneer, samosas, naan, etc.",naan,159,27,EN,"[46,50)",food#quality,POSITIVE,46,50
+The food was all good but it was way too mild.,food,160,27,EN,"[4,8)",food#quality,POSITIVE,4,8
+The food was all good but it was way too mild.,food,160,27,EN,"[4,8)",food#quality,NEGATIVE,4,8
+"Normally, places ask how hot you want it, but they didn't.",,161,27,EN,"[0,0)",service#general,NEGATIVE,0,0
+I should have thought to bring it up but never expected the food to be that mild.,food,162,27,EN,"[60,64)",food#quality,NEGATIVE,60,64
+"The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.",naan,164,27,EN,"[4,8)",food#quality,POSITIVE,4,8
+"The naan was some of the best I've had and I really enjoyed the bhartha, not too tomatoey.",bhartha,164,27,EN,"[64,71)",food#quality,POSITIVE,64,71
+"Even the chickpeas, which I normally find too dry, were good.",chickpeas,165,27,EN,"[9,18)",food#quality,POSITIVE,9,18
+And they packaged everything nicely so it didn't spill.,,166,27,EN,"[0,0)",service#general,POSITIVE,0,0
+awesome find,,167,28,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.",fajita salad,168,28,EN,"[75,87)",food#quality,POSITIVE,75,87
+"– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.",colorado,168,28,EN,"[93,101)",food#quality,POSITIVE,93,101
+"– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.",fajitas,168,28,EN,"[107,114)",food#quality,POSITIVE,107,114
+"– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.",,168,28,EN,"[0,0)",food#quality,POSITIVE,0,0
+"– I don't understand how I was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - EVERYTHING is delicious.",place,168,28,EN,"[50,55)",restaurant#general,POSITIVE,50,55
+I love the warm & cosy environment.,environment,169,28,EN,"[23,34)",ambience#general,POSITIVE,23,34
+I just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.,place,170,28,EN,"[39,44)",restaurant#miscellaneous,POSITIVE,39,44
+"best restaurant in the world, great decor, great customer service, friendly manager",restaurant,171,29,EN,"[5,15)",restaurant#general,POSITIVE,5,15
+"best restaurant in the world, great decor, great customer service, friendly manager",decor,171,29,EN,"[36,41)",ambience#general,POSITIVE,36,41
+"best restaurant in the world, great decor, great customer service, friendly manager",customer service,171,29,EN,"[49,65)",service#general,POSITIVE,49,65
+"best restaurant in the world, great decor, great customer service, friendly manager",manager,171,29,EN,"[76,83)",service#general,POSITIVE,76,83
+i am never disappointed with there food.,food,174,29,EN,"[35,39)",food#quality,POSITIVE,35,39
+the atmosphere is great.,atmosphere,175,29,EN,"[4,14)",ambience#general,POSITIVE,4,14
+great lunch spot,lunch spot,177,30,EN,"[6,16)",restaurant#general,POSITIVE,6,16
+– Great financial district mexican spot.,mexican spot,178,30,EN,"[27,39)",restaurant#general,POSITIVE,27,39
+"Always busy, but they are good at seating you promptly and have quick service.",service,179,30,EN,"[70,77)",service#general,POSITIVE,70,77
+"Always busy, but they are good at seating you promptly and have quick service.",,179,30,EN,"[0,0)",service#general,POSITIVE,0,0
+"Everything I've had here is good, taco salads, burritos, enchiladas i love this place.",taco salads,180,30,EN,"[34,45)",food#quality,POSITIVE,34,45
+"Everything I've had here is good, taco salads, burritos, enchiladas i love this place.",burritos,180,30,EN,"[47,55)",food#quality,POSITIVE,47,55
+"Everything I've had here is good, taco salads, burritos, enchiladas i love this place.",enchiladas,180,30,EN,"[57,67)",food#quality,POSITIVE,57,67
+"Everything I've had here is good, taco salads, burritos, enchiladas i love this place.",place,180,30,EN,"[80,85)",restaurant#general,POSITIVE,80,85
+"Everything I've had here is good, taco salads, burritos, enchiladas i love this place.",,180,30,EN,"[0,0)",food#quality,POSITIVE,0,0
+Also have great margaritas!,margaritas,181,30,EN,"[16,26)",drinks#quality,POSITIVE,16,26
+You can order to go if you have to get back to the office too!,,182,30,EN,"[0,0)",service#general,POSITIVE,0,0
+Lebanese Food!Yum!,Lebanese Food,183,31,EN,"[0,13)",food#quality,POSITIVE,0,13
+"– I've been to Open Sesame only once, but I'm still reeling from the experience!!",Open Sesame,184,31,EN,"[15,26)",restaurant#general,POSITIVE,15,26
+The food is simply unforgettable!,food,185,31,EN,"[4,8)",food#quality,POSITIVE,4,8
+"The presentation of the food was an added bonus, it looked just as great as it tasted!",food,187,31,EN,"[24,28)",food#style_options,POSITIVE,24,28
+"The presentation of the food was an added bonus, it looked just as great as it tasted!",food,187,31,EN,"[24,28)",food#quality,POSITIVE,24,28
+My best friend had the chicken shawarma and she STILL raves about it being the best anywhere!,chicken shawarma,188,31,EN,"[23,39)",food#quality,POSITIVE,23,39
+"What a tastly, flaky treat!",,190,31,EN,"[0,0)",food#quality,POSITIVE,0,0
+The staff are friendly and the decor was ethic and colorful.,staff,191,31,EN,"[4,9)",service#general,POSITIVE,4,9
+The staff are friendly and the decor was ethic and colorful.,decor,191,31,EN,"[31,36)",ambience#general,POSITIVE,31,36
+GO TO OPEN SESAME!!!,OPEN SESAME,192,31,EN,"[6,17)",restaurant#general,POSITIVE,6,17
+Holy Hummus!,Hummus,193,32,EN,"[5,11)",food#quality,POSITIVE,5,11
+"– The food is here is incredible, though the quality is inconsistent during lunch.",food,194,32,EN,"[6,10)",food#quality,POSITIVE,6,10
+"– The food is here is incredible, though the quality is inconsistent during lunch.",lunch,194,32,EN,"[76,81)",food#quality,NEGATIVE,76,81
+"Dinners have always been excellent, in terms of food quality.",Dinners,195,32,EN,"[0,7)",food#quality,POSITIVE,0,7
+The open sesame combo plate is a bargain for the heap of food given.,open sesame combo plate,196,32,EN,"[4,27)",food#prices,POSITIVE,4,27
+The open sesame combo plate is a bargain for the heap of food given.,open sesame combo plate,196,32,EN,"[4,27)",food#style_options,POSITIVE,4,27
+"The side of potatoes is to die for, as is the labne (yogurt dip).",side of potatoes,197,32,EN,"[4,20)",food#quality,POSITIVE,4,20
+"The side of potatoes is to die for, as is the labne (yogurt dip).",labne (yogurt dip),197,32,EN,"[46,64)",food#quality,POSITIVE,46,64
+"Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!",hummus,198,32,EN,"[26,32)",food#quality,POSITIVE,26,32
+"Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!",hummus,198,32,EN,"[26,32)",food#style_options,POSITIVE,26,32
+The only drawback is the crowded seating and the slow service.,seating,199,32,EN,"[33,40)",restaurant#miscellaneous,NEGATIVE,33,40
+The only drawback is the crowded seating and the slow service.,service,199,32,EN,"[54,61)",service#general,NEGATIVE,54,61
+There have been several occasions when we've just not gotten some side dishes we've ordered.,,200,32,EN,"[0,0)",service#general,NEGATIVE,0,0
+"However, this place is a gem, and I won't stop going back.",place,201,32,EN,"[14,19)",restaurant#general,POSITIVE,14,19
+great beer,beer,202,33,EN,"[6,10)",drinks#quality,POSITIVE,6,10
+– My first time to dine at this restaurant was with my son and it was absolutely horrible!,restaurant,203,33,EN,"[32,42)",restaurant#general,NEGATIVE,32,42
+We waited over 30 minutes for our drinks and over 1 1/2 hours for our food.,,204,33,EN,"[0,0)",service#general,NEGATIVE,0,0
+I swore never to return for a warm beer and mediocre meal.,beer,205,33,EN,"[35,39)",drinks#quality,NEGATIVE,35,39
+I swore never to return for a warm beer and mediocre meal.,meal,205,33,EN,"[53,57)",food#quality,NEGATIVE,53,57
+"HOWEVER, one Sunday afternoon my husband and I did go (although with my loud protests) and were pleasantly surprised.",,206,33,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+The band was very good and the service was attentive.,band,207,33,EN,"[4,8)",ambience#general,POSITIVE,4,8
+The band was very good and the service was attentive.,service,207,33,EN,"[31,38)",service#general,POSITIVE,31,38
+"We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.",shoe string onions,209,33,EN,"[52,70)",food#quality,POSITIVE,52,70
+"We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.",goat cheese pizza,209,33,EN,"[72,89)",food#quality,POSITIVE,72,89
+"We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.",grilled asparagus,209,33,EN,"[91,108)",food#quality,POSITIVE,91,108
+"We ordered a selection of the small plates, and the shoe string onions, goat cheese pizza, grilled asparagus and fried brie with fruit were all very good.",fried brie with fruit,209,33,EN,"[113,134)",food#quality,POSITIVE,113,134
+It was like dining at a completely different restaurant.,,210,33,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"We have since returned and also had a great experience, sampling more small plates and a variety of the beer ( cold and good).",beer,211,33,EN,"[104,108)",drinks#quality,POSITIVE,104,108
+"We have since returned and also had a great experience, sampling more small plates and a variety of the beer ( cold and good).",,211,33,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"We did have the same waiter the second time, so maybe the service is spotty and our luck is good.",waiter,212,33,EN,"[21,27)",service#general,POSITIVE,21,27
+Sunday afternoons there is a band playing and it is lots of fun.,band,213,33,EN,"[29,33)",ambience#general,POSITIVE,29,33
+Seattle's BEST Winelist,Winelist,214,34,EN,"[15,23)",drinks#style_options,POSITIVE,15,23
+– Ray's (suprisingly) has the city's BEST & most diverse wine list.,wine list,215,34,EN,"[57,66)",drinks#style_options,POSITIVE,57,66
+"The sommelier is fantastic, down-to-earth, & extremely knowlegable.",sommelier,216,34,EN,"[4,13)",service#general,POSITIVE,4,13
+I would go back for the wine experience alone.,wine,217,34,EN,"[24,28)",drinks#quality,POSITIVE,24,28
+Nice job!,,218,34,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+NOT THE PLACE IT ONCE WAS,PLACE,219,35,EN,"[8,13)",restaurant#general,NEGATIVE,8,13
+"– It is sad to see a place that was once ""THE"" place to meet and eat for Bfast or Lunch, now be the place that is a big ""DONT BOTHER.""",place,220,35,EN,"[100,105)",restaurant#general,NEGATIVE,100,105
+"The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).",food,221,35,EN,"[4,8)",food#quality,NEGATIVE,4,8
+"The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).",potions,221,35,EN,"[34,41)",food#style_options,NEGATIVE,34,41
+"The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).",service,221,35,EN,"[103,110)",service#general,NEGATIVE,103,110
+"The food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst I have experienced anywhere (including mainland Europe).",food,221,35,EN,"[4,8)",food#prices,NEGATIVE,4,8
+What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment.,owners,222,35,EN,"[76,82)",service#general,NEGATIVE,76,82
+"This establishment really made a marked decline after ( and this is recurring story ) the airing of FOOD TELEVISIONS ""DINERS, DRIVE-INS, AND DIVES"" hosted by Guy Fieri, in which Schooner or Later was subject of.",establishment,223,35,EN,"[5,18)",restaurant#general,NEGATIVE,5,18
+"Perhaps now, Scooner or Later falls into the ""Dive"" category.",Scooner or Later,224,35,EN,"[13,29)",restaurant#general,NEGATIVE,13,29
+This is sad for what once was one of the best places you could ever eat.,,225,35,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+I hope one day Scooner or Later returns to what it once was.,Scooner or Later,226,35,EN,"[15,31)",restaurant#general,NEGATIVE,15,31
+"Untill this happens, my advice is to STAY AWAY.",,227,35,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Open & Cool Place with the Best Pizza and Coffee,Place,228,36,EN,"[12,17)",ambience#general,POSITIVE,12,17
+Open & Cool Place with the Best Pizza and Coffee,Pizza,228,36,EN,"[32,37)",food#quality,POSITIVE,32,37
+Open & Cool Place with the Best Pizza and Coffee,Coffee,228,36,EN,"[42,48)",drinks#quality,POSITIVE,42,48
+– Mioposto has a very creative & delicious pizza menu.,pizza menu,229,36,EN,"[43,53)",food#quality,POSITIVE,43,53
+– Mioposto has a very creative & delicious pizza menu.,pizza menu,229,36,EN,"[43,53)",food#style_options,POSITIVE,43,53
+"The coffe is very good, too.",coffe,230,36,EN,"[4,9)",drinks#quality,POSITIVE,4,9
+Great open and friendly ambience.,ambience,231,36,EN,"[24,32)",ambience#general,POSITIVE,24,32
+This place is charming and relaxing.,place,232,36,EN,"[5,10)",ambience#general,POSITIVE,5,10
+The servers behind the counter are always friendly and helpful.,servers behind the counter,233,36,EN,"[4,30)",service#general,POSITIVE,4,30
+It's a great place to enjoy food and meet friends.,food,235,36,EN,"[28,32)",food#quality,POSITIVE,28,32
+It's a great place to enjoy food and meet friends.,place,235,36,EN,"[13,18)",restaurant#miscellaneous,POSITIVE,13,18
+Old Reliable,,236,37,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– After 12 years in Seattle Ray's rates as the place we always go back to.,Ray's,237,37,EN,"[28,33)",restaurant#general,POSITIVE,28,33
+"Great food, spectacular location, and friendly service keep us coming back year after year.",food,238,37,EN,"[6,10)",food#quality,POSITIVE,6,10
+"Great food, spectacular location, and friendly service keep us coming back year after year.",location,238,37,EN,"[24,32)",location#general,POSITIVE,24,32
+"Great food, spectacular location, and friendly service keep us coming back year after year.",service,238,37,EN,"[47,54)",service#general,POSITIVE,47,54
+Enjoyed the food,food,239,38,EN,"[12,16)",food#quality,POSITIVE,12,16
+I liked it.,,243,38,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Food was good and cheap.,Food,244,38,EN,"[0,4)",food#quality,POSITIVE,0,4
+Food was good and cheap.,Food,244,38,EN,"[0,4)",food#prices,POSITIVE,0,4
+I had the kafta plate and I enjoyed it.,kafta plate,245,38,EN,"[10,21)",food#quality,POSITIVE,10,21
+"It was so much though that I could barely finish but I did, since it was delicious.",,246,38,EN,"[0,0)",food#style_options,NEUTRAL,0,0
+"It was so much though that I could barely finish but I did, since it was delicious.",,246,38,EN,"[0,0)",food#quality,POSITIVE,0,0
+Atmosphere was nice.,Atmosphere,247,38,EN,"[0,10)",ambience#general,POSITIVE,0,10
+"Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.",Service,248,38,EN,"[0,7)",service#general,NEGATIVE,0,7
+"Service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.",waitress,248,38,EN,"[30,38)",service#general,NEGATIVE,30,38
+Still I would recommend this place.,place,249,38,EN,"[29,34)",restaurant#general,POSITIVE,29,34
+WOW!!!!!!!!,,252,39,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– IT CANT GET ANY BETTER!!!!!,,253,39,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW,FOOD,254,39,EN,"[42,46)",food#quality,POSITIVE,42,46
+WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW,PEOPLE,254,39,EN,"[27,33)",service#general,POSITIVE,27,33
+WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW,,254,39,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Great food with an awesome atmosphere!,food,255,40,EN,"[6,10)",food#quality,POSITIVE,6,10
+Great food with an awesome atmosphere!,atmosphere,255,40,EN,"[27,37)",ambience#general,POSITIVE,27,37
+"– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.",Eggs,256,40,EN,"[2,6)",food#quality,POSITIVE,2,6
+"– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.",pancakes,256,40,EN,"[8,16)",food#quality,POSITIVE,8,16
+"– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.",potatoes,256,40,EN,"[18,26)",food#quality,POSITIVE,18,26
+"– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.",fresh fruit,256,40,EN,"[28,39)",food#quality,POSITIVE,28,39
+"– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.",yogurt,256,40,EN,"[44,50)",food#quality,POSITIVE,44,50
+"– Eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.",,256,40,EN,"[0,0)",food#quality,POSITIVE,0,0
+"The best place for a leisure Sunday breakfast amidst yachts, then take a stroll through the nearby Farmer's Market.",place,257,40,EN,"[9,14)",restaurant#miscellaneous,POSITIVE,9,14
+great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!,meal,258,41,EN,"[6,10)",food#quality,POSITIVE,6,10
+great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!,fish on the omikase platter,258,41,EN,"[17,44)",food#quality,POSITIVE,17,44
+"plus, i am allergic to rice, and the waitstaff was unbelievably accomodating -- didn't even bat an eye!",waitstaff,259,41,EN,"[37,46)",service#general,POSITIVE,37,46
+and the waiter suggested a perfect sake!!,waiter,260,41,EN,"[8,14)",service#general,POSITIVE,8,14
+and the waiter suggested a perfect sake!!,sake,260,41,EN,"[35,39)",drinks#quality,POSITIVE,35,39
+absolutely fabulous!!!,,261,41,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Unbeatable sushi!,sushi,262,42,EN,"[11,16)",food#quality,POSITIVE,11,16
+Two thumbs up!,,263,42,EN,"[0,0)",food#quality,POSITIVE,0,0
+This is right up there with places in Tokyo as far as the freshness is concerned.,,265,42,EN,"[0,0)",food#quality,POSITIVE,0,0
+"Melt in your mouth nigiri and sashmi, and very tasty rolls too.",nigiri,266,42,EN,"[19,25)",food#quality,POSITIVE,19,25
+"Melt in your mouth nigiri and sashmi, and very tasty rolls too.",sashmi,266,42,EN,"[30,36)",food#quality,POSITIVE,30,36
+"Melt in your mouth nigiri and sashmi, and very tasty rolls too.",rolls,266,42,EN,"[53,58)",food#quality,POSITIVE,53,58
+Be sure to try the oyster roll.,oyster roll,267,42,EN,"[19,30)",food#quality,POSITIVE,19,30
+splendid,,268,43,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"– How to describe the best sushi in NYC: hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.",sushi,269,43,EN,"[27,32)",food#quality,POSITIVE,27,32
+"I can't saybenough good things about this restaurant, and I can't wait for my next several visits.",restaurant,270,43,EN,"[42,52)",restaurant#general,POSITIVE,42,52
+The best Chuwam Mushi I have ever had.,Chuwam Mushi,271,43,EN,"[9,21)",food#quality,POSITIVE,9,21
+Perfect on a cold day.,,272,43,EN,"[0,0)",food#quality,POSITIVE,0,0
+$6 with tip.,,273,43,EN,"[0,0)",restaurant#prices,POSITIVE,0,0
+Perfection.,,274,43,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Good Sushi, High Price ",Sushi,275,44,EN,"[5,10)",food#quality,POSITIVE,5,10
+"Good Sushi, High Price ",Sushi,275,44,EN,"[5,10)",food#prices,NEGATIVE,5,10
+One of the best Sushi place in town.,Sushi place,276,44,EN,"[16,27)",restaurant#general,POSITIVE,16,27
+The house special roll is really good.,house special roll,277,44,EN,"[4,22)",food#quality,POSITIVE,4,22
+"On weekends, you might have to wait for couple hours.",,278,44,EN,"[0,0)",service#general,NEUTRAL,0,0
+"However, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.",,279,44,EN,"[0,0)",service#general,POSITIVE,0,0
+A cozy spot for 2,spot,280,45,EN,"[7,11)",ambience#general,POSITIVE,7,11
+"– I can't believe Murphy's has been around for over 25 years, amazing.",Murphy's,281,45,EN,"[18,26)",restaurant#miscellaneous,POSITIVE,18,26
+"That's a huge compliment, especially in the fickled restaurant business, ...enough already!",,282,45,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.",Brunch,283,45,EN,"[0,6)",food#quality,POSITIVE,0,6
+"Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.",food,283,45,EN,"[72,76)",food#quality,POSITIVE,72,76
+"Brunch at Murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.",egg white omelet,283,45,EN,"[50,66)",food#quality,POSITIVE,50,66
+It's the perfect spot for a romantic date for 2 or a secret rendezvous!,spot,284,45,EN,"[17,21)",restaurant#miscellaneous,POSITIVE,17,21
+It's the perfect spot for a romantic date for 2 or a secret rendezvous!,spot,284,45,EN,"[17,21)",ambience#general,POSITIVE,17,21
+Save room for  scrumptious desserts.,desserts,285,45,EN,"[27,35)",food#quality,POSITIVE,27,35
+The restaurant offers an extensive wine list and an ambiance you won't forget!,wine list,286,45,EN,"[35,44)",drinks#style_options,POSITIVE,35,44
+The restaurant offers an extensive wine list and an ambiance you won't forget!,ambiance,286,45,EN,"[52,60)",ambience#general,POSITIVE,52,60
+"I guarantee you won't be disappointed, there's also valet parking.",,287,45,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"I guarantee you won't be disappointed, there's also valet parking.",,287,45,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+Addicting!,,288,46,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– Best Mexican place for lunch in the financial district.,Mexican place,289,46,EN,"[7,20)",restaurant#general,POSITIVE,7,20
+Love the enchiladas and chicken soup - and be sure to check out their specials.,enchiladas,290,46,EN,"[9,19)",food#quality,POSITIVE,9,19
+Love the enchiladas and chicken soup - and be sure to check out their specials.,chicken soup,290,46,EN,"[24,36)",food#quality,POSITIVE,24,36
+Love the enchiladas and chicken soup - and be sure to check out their specials.,specials,290,46,EN,"[70,78)",food#quality,POSITIVE,70,78
+The cooks have been at the restaurant for years and cook family recipes.,cooks,291,46,EN,"[4,9)",food#quality,POSITIVE,4,9
+"Can get busy on Fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.",service,292,46,EN,"[57,64)",service#general,POSITIVE,57,64
+I went there with a friend from out of town... and we were both very impressed!,,293,47,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+The sushi was excellent and the wait staff was quick.,sushi,295,47,EN,"[4,9)",food#quality,POSITIVE,4,9
+The sushi was excellent and the wait staff was quick.,wait staff,295,47,EN,"[32,42)",service#general,POSITIVE,32,42
+The price was right too.,,296,47,EN,"[0,0)",restaurant#prices,POSITIVE,0,0
+The atmosphere was just okay.,atmosphere,297,47,EN,"[4,14)",ambience#general,NEUTRAL,4,14
+"Space was limited, but the food made up for it.",Space,298,47,EN,"[0,5)",restaurant#miscellaneous,NEGATIVE,0,5
+"Space was limited, but the food made up for it.",food,298,47,EN,"[27,31)",food#quality,POSITIVE,27,31
+I'd go back there in a heartbeat.,,299,47,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Well I guess it's hard to be seated when one is invisible to the staff.,staff,303,48,EN,"[65,70)",service#general,NEGATIVE,65,70
+We stood there for 10 minutes while employees walked back and forth ignoring us.,employees,304,48,EN,"[36,45)",service#general,NEGATIVE,36,45
+"Finally, my wife stood face to face in front of one of the staff and she asked, ""Are you waiting for a table?""",staff,305,48,EN,"[59,64)",service#general,NEGATIVE,59,64
+Once seated it took about 30 minutes to finally get the meal.,,306,48,EN,"[0,0)",service#general,NEGATIVE,0,0
+The prior reviews said Kid friendly... give me a break with two young children that is light years.,,307,48,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+The Caesar salad I ordered had so much lemon I couldn't eat it.,Caesar salad,308,48,EN,"[4,16)",food#quality,NEGATIVE,4,16
+It was decent but nothing exceptional.,,310,48,EN,"[0,0)",food#quality,NEUTRAL,0,0
+"Great food, better Margaritas!",food,315,49,EN,"[6,10)",food#quality,POSITIVE,6,10
+"Great food, better Margaritas!",Margaritas,315,49,EN,"[19,29)",drinks#quality,POSITIVE,19,29
+"– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!",,316,49,EN,"[0,89)",restaurant#general,POSITIVE,0,89
+"– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!",portions,316,49,EN,"[42,50)",food#style_options,POSITIVE,42,50
+"– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!",service,316,49,EN,"[57,64)",service#general,POSITIVE,57,64
+"– This is one of my top lunch spots, huge portions, fast service and amazing margaritas!!",margaritas,316,49,EN,"[77,87)",drinks#quality,POSITIVE,77,87
+"it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!",service,317,49,EN,"[124,131)",service#general,POSITIVE,124,131
+"Check out the art on the walls, very colorful!",art on the walls,318,49,EN,"[14,30)",ambience#general,POSITIVE,14,30
+i love this place!,place,319,50,EN,"[12,17)",restaurant#general,POSITIVE,12,17
+– i have been eating at this place for over 8 years now and i have never had one bad meal.,meal,320,50,EN,"[85,89)",food#quality,POSITIVE,85,89
+i highly recommend this place to all that want to try indain food for the first time.,indain food,321,50,EN,"[54,65)",food#quality,POSITIVE,54,65
+The lunch menu is an awesome deal!,lunch menu,322,50,EN,"[4,14)",food#prices,POSITIVE,4,14
+"plenty of food,trust me .",food,323,50,EN,"[10,14)",food#style_options,POSITIVE,10,14
+Fresh ingrediants and super tasty.,ingrediants,324,50,EN,"[6,17)",food#quality,POSITIVE,6,17
+Fresh ingrediants and super tasty.,,324,50,EN,"[0,0)",food#quality,POSITIVE,0,0
+The place is the next best thing to my Moms cooking.,,325,50,EN,"[0,0)",food#quality,POSITIVE,0,0
+"Best food, phenominal service ",food,326,51,EN,"[5,9)",food#quality,POSITIVE,5,9
+"Best food, phenominal service ",service,326,51,EN,"[22,29)",service#general,POSITIVE,22,29
+"For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.",fish,327,51,EN,"[86,90)",food#quality,POSITIVE,86,90
+"For the finicky sushi eater and those who have sampled the best NYC has to offer, the fish is the freshest and the service is superb.",service,327,51,EN,"[115,122)",service#general,POSITIVE,115,122
+"Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.",selection,328,51,EN,"[17,26)",food#style_options,POSITIVE,17,26
+"Not only can the selection be innovative, but there's a nice balance of traditional sushi as well.",sushi,328,51,EN,"[84,89)",food#style_options,POSITIVE,84,89
+The nicest waiters in town.,waiters,329,51,EN,"[11,18)",service#general,POSITIVE,11,18
+WAY OVER-RATED!!!!,,330,52,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+– This place is unbelievably over-rated.,place,331,52,EN,"[7,12)",restaurant#general,NEGATIVE,7,12
+"If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.",brunch food,332,52,EN,"[64,75)",food#quality,NEUTRAL,64,75
+"If I want to stand in line on Sunday for an hour to get average brunch food, then I would put Murphy's at the top of the list.",,332,52,EN,"[0,0)",service#general,NEGATIVE,0,0
+The regular menu here is slightly above average that is not worth the snotty attitude that you receive.,regular menu,333,52,EN,"[4,16)",food#quality,NEUTRAL,4,16
+The regular menu here is slightly above average that is not worth the snotty attitude that you receive.,,333,52,EN,"[0,0)",service#general,NEGATIVE,0,0
+10!,,334,53,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",sushi,335,53,EN,"[7,12)",food#quality,POSITIVE,7,12
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",fish,335,53,EN,"[40,44)",food#style_options,POSITIVE,40,44
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",sake,335,53,EN,"[52,56)",drinks#quality,POSITIVE,52,56
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",SOHO location,335,53,EN,"[67,80)",location#general,POSITIVE,67,80
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Salmon,335,53,EN,"[97,103)",food#quality,POSITIVE,97,103
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Tuna,335,53,EN,"[105,109)",food#quality,POSITIVE,105,109
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Fluke,335,53,EN,"[111,116)",food#quality,POSITIVE,111,116
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Yellow Tail,335,53,EN,"[118,129)",food#quality,POSITIVE,118,129
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Cod,335,53,EN,"[131,134)",food#quality,POSITIVE,131,134
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Mackeral,335,53,EN,"[136,144)",food#quality,POSITIVE,136,144
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Jellyfish,335,53,EN,"[146,155)",food#quality,POSITIVE,146,155
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Sea Urchin,335,53,EN,"[157,167)",food#quality,POSITIVE,157,167
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Shrimp,335,53,EN,"[169,175)",food#quality,POSITIVE,169,175
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Lobster,335,53,EN,"[177,184)",food#quality,POSITIVE,177,184
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Sea Bream,335,53,EN,"[186,195)",food#quality,POSITIVE,186,195
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Trout,335,53,EN,"[197,202)",food#quality,POSITIVE,197,202
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Milk Fish,335,53,EN,"[204,213)",food#quality,POSITIVE,204,213
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Blue Fin Tuna,335,53,EN,"[215,228)",food#quality,POSITIVE,215,228
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Eel,335,53,EN,"[230,233)",food#quality,POSITIVE,230,233
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Crab,335,53,EN,"[235,239)",food#quality,POSITIVE,235,239
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Sardine,335,53,EN,"[241,248)",food#quality,POSITIVE,241,248
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Monk Fish,335,53,EN,"[250,259)",food#quality,POSITIVE,250,259
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Roe,335,53,EN,"[261,264)",food#quality,POSITIVE,261,264
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Scallop,335,53,EN,"[266,273)",food#quality,POSITIVE,266,273
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Oysters,335,53,EN,"[275,282)",food#quality,POSITIVE,275,282
+"Your a sushi fan, you love expertly cut fish, great sake, a killer SOHO location, and of course: Salmon, Tuna, Fluke, Yellow Tail, Cod, Mackeral, Jellyfish, Sea Urchin, Shrimp, Lobster, Sea Bream, Trout, Milk Fish, Blue Fin Tuna, Eel, Crab, Sardine, Monk Fish, Roe, Scallop, Oysters, and a varity of Toro.",Toro,335,53,EN,"[300,304)",food#style_options,POSITIVE,300,304
+"There is only one place on the east coast that has it all, plus a lot more.",place,336,53,EN,"[18,23)",restaurant#general,POSITIVE,18,23
+Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world: BLUE RIBBON SUSHI.,BLUE RIBBON SUSHI,338,53,EN,"[101,118)",restaurant#general,POSITIVE,101,118
+Cut to the chase - this is amazing!,,340,54,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+It's unpretentious and underground.,,341,54,EN,"[0,0)",ambience#general,POSITIVE,0,0
+"It's fresh, welcoming, delicious, and relaxing.",,342,54,EN,"[0,0)",food#quality,POSITIVE,0,0
+"It's fresh, welcoming, delicious, and relaxing.",,342,54,EN,"[0,0)",ambience#general,POSITIVE,0,0
+"Hands down, the best tuna I have ever had.",tuna,343,54,EN,"[21,25)",food#quality,POSITIVE,21,25
+Blue Ribbon lives up to it's fantastic reputation.,Blue Ribbon,344,54,EN,"[0,11)",restaurant#general,POSITIVE,0,11
+I went here on a recommendation and will surely return time and time again.,,345,54,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+What a find!,,346,54,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Well worth it ,,347,55,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Great value sushi with high quality & nice setting.,sushi,348,55,EN,"[12,17)",food#prices,POSITIVE,12,17
+Great value sushi with high quality & nice setting.,sushi,348,55,EN,"[12,17)",food#quality,POSITIVE,12,17
+Great value sushi with high quality & nice setting.,setting,348,55,EN,"[43,50)",ambience#general,POSITIVE,43,50
+Good for late night dining (last minute planning) without reservations.,,349,55,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.,rolls,350,55,EN,"[80,85)",food#quality,POSITIVE,80,85
+Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.,smoked yellowtail,350,55,EN,"[39,56)",food#quality,POSITIVE,39,56
+Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.,Chef's Choice for sushi,350,55,EN,"[8,31)",food#quality,POSITIVE,8,31
+Poor customer service/poor pizza.,customer service,351,56,EN,"[5,21)",service#general,NEGATIVE,5,21
+Poor customer service/poor pizza.,pizza,351,56,EN,"[27,32)",food#quality,NEGATIVE,27,32
+"– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.",service,352,56,EN,"[50,57)",service#general,NEGATIVE,50,57
+"– As with most restaurants in Seattle, Mioposto's service was bad and the food was overpriced.",food,352,56,EN,"[74,78)",food#prices,NEGATIVE,74,78
+"I know many people have their favorite types of pizza and pizza places, but Mioposto's pizza lacks quality and good taste.",pizza,353,56,EN,"[87,92)",food#quality,NEGATIVE,87,92
+"To be honest, I've had better frozen pizza.",pizza,354,56,EN,"[37,42)",food#quality,NEGATIVE,37,42
+The only positive thing about Mioposto is the nice location.,location,356,56,EN,"[51,59)",location#general,POSITIVE,51,59
+The only positive thing about Mioposto is the nice location.,Mioposto,356,56,EN,"[30,38)",restaurant#general,NEGATIVE,30,38
+Love it every time ,,357,57,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"I was frankly shocked when I read the bad reviews - this place is fantastic; it has not let us down in any way, and we've eaten here more than 10 times.",place,358,57,EN,"[57,62)",restaurant#general,POSITIVE,57,62
+"The food is fantastic, and the waiting staff has been perfect every single time we've been there.",food,360,57,EN,"[4,8)",food#quality,POSITIVE,4,8
+"The food is fantastic, and the waiting staff has been perfect every single time we've been there.",waiting staff,360,57,EN,"[31,44)",service#general,POSITIVE,31,44
+"The only problem would be the wait, but we usually just have a drink in the front while waiting.",wait,361,57,EN,"[30,34)",service#general,NEUTRAL,30,34
+Never had one single problem there.,,362,57,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Seafood Plus,Seafood,363,58,EN,"[0,7)",food#quality,POSITIVE,0,7
+– This was  great dining experience.,,364,58,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"If you're going to see Danny Gans or just staying at the Mirage, don't miss this one.",,365,58,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.","appetizer of oysters, lobster, crab (small size)",366,58,EN,"[4,52)",food#quality,POSITIVE,4,52
+Seabass on lobster risotto was the best.,Seabass on lobster risotto,367,58,EN,"[0,26)",food#quality,POSITIVE,0,26
+Caesar salad was superb.,Caesar salad,368,58,EN,"[0,12)",food#quality,POSITIVE,0,12
+Great bottle of wine.,bottle of wine,369,58,EN,"[6,20)",drinks#quality,POSITIVE,6,20
+Leave room for dessert.,dessert,370,58,EN,"[15,22)",food#quality,POSITIVE,15,22
+COMPLETELY OVER RATED!,,371,59,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+"The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.",food,374,59,EN,"[4,8)",food#quality,NEUTRAL,4,8
+"The food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.",service,374,59,EN,"[25,32)",service#general,NEGATIVE,25,32
+"Even then, the order was not correct and we were still waiting for a couple items.",,375,59,EN,"[0,0)",service#general,NEGATIVE,0,0
+We had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.,waitress,376,59,EN,"[36,44)",service#general,NEGATIVE,36,44
+As it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.,owner,377,59,EN,"[20,25)",service#general,NEGATIVE,20,25
+"When the bill came, he only took the discount off the food and not the drinks.",,378,59,EN,"[0,0)",service#general,NEGATIVE,0,0
+It was clear he didn’t really care.,,379,59,EN,"[0,0)",service#general,NEGATIVE,0,0
+AVOID THE PLACE,PLACE,381,60,EN,"[10,15)",restaurant#general,NEGATIVE,10,15
+– Save yourself the waste of time & DO NOT visit.,,382,60,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!,atmosphere,384,60,EN,"[43,53)",ambience#general,POSITIVE,43,53
+When I got there I sat up stairs where the atmosphere was cozy & the service was horrible!,service,384,60,EN,"[69,76)",service#general,NEGATIVE,69,76
+I waited for 10-15 minutes for service ordered a beer & was never served again.,service,385,60,EN,"[31,38)",service#general,NEGATIVE,31,38
+After sitting there with my empty glass for over 20 minutes I left.,,386,60,EN,"[0,0)",service#general,NEGATIVE,0,0
+I went home & looked them up online again where I discovered there is a link for a give away that doesn't work so emailed the restaurant about the non existent service & deceptive link.,restaurant,387,60,EN,"[126,136)",restaurant#miscellaneous,NEGATIVE,126,136
+I never heard back from anyone more than a month ago.,,388,60,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+After sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she'd be right with us.,bar keep,390,60,EN,"[49,57)",service#general,NEGATIVE,49,57
+We left without ever getting service.,service,391,60,EN,"[29,36)",service#general,NEGATIVE,29,36
+As of writing this I just tried their give away a link again & it still doesn't work.,,392,60,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+Best Crab Cakes in Town,Crab Cakes,394,61,EN,"[5,15)",food#quality,POSITIVE,5,15
+– Thats a big statement considering I've been pulling crab traps and making the cakes myself since I was about seven - but something about these little devils gets better every time.,cakes,395,61,EN,"[80,85)",food#quality,POSITIVE,80,85
+"If you can, come to this place by boat and make it a whole evening.",place,396,61,EN,"[25,30)",restaurant#miscellaneous,POSITIVE,25,30
+"Great seasonal fish and seafood, with a classy waterfront setting.",seasonal fish,397,61,EN,"[6,19)",food#quality,POSITIVE,6,19
+"Great seasonal fish and seafood, with a classy waterfront setting.",seafood,397,61,EN,"[24,31)",food#quality,POSITIVE,24,31
+"Great seasonal fish and seafood, with a classy waterfront setting.",waterfront setting,397,61,EN,"[47,65)",ambience#general,POSITIVE,47,65
+Always a winner.,,398,61,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Great Pizza, Poor Service",Pizza,399,62,EN,"[6,11)",food#quality,POSITIVE,6,11
+"Great Pizza, Poor Service",Service,399,62,EN,"[18,25)",service#general,NEGATIVE,18,25
+"– Love their pizza, especially the mushroom pizza.",pizza,400,62,EN,"[13,18)",food#quality,POSITIVE,13,18
+"– Love their pizza, especially the mushroom pizza.",mushroom pizza,400,62,EN,"[35,49)",food#quality,POSITIVE,35,49
+Also love their caeser salad.,caeser salad,401,62,EN,"[16,28)",food#quality,POSITIVE,16,28
+"Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.",servers,402,62,EN,"[66,73)",service#general,NEGATIVE,66,73
+"Prefer to order it and pick it up though because I don't like the servers, one young woman in particular.",young woman,402,62,EN,"[79,90)",service#general,NEGATIVE,79,90
+She doesn't make you feel welcome and treats you like an annoyance.,,403,62,EN,"[0,0)",service#general,NEGATIVE,0,0
+"But she is very friendly with certain people, making it even more annoying.",,404,62,EN,"[0,0)",service#general,NEGATIVE,0,0
+Management should really take notice and train their waitstaff and teach them some proper manners.,waitstaff,405,62,EN,"[53,62)",service#general,NEGATIVE,53,62
+Management should really take notice and train their waitstaff and teach them some proper manners.,Management,405,62,EN,"[0,10)",service#general,NEGATIVE,0,10
+"Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.",pizza,406,62,EN,"[33,38)",food#quality,POSITIVE,33,38
+"Many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.",service,406,62,EN,"[48,55)",service#general,NEGATIVE,48,55
+It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.,place,407,62,EN,"[20,25)",restaurant#general,POSITIVE,20,25
+It's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.,service,407,62,EN,"[83,90)",service#general,NEGATIVE,83,90
+Great Breakfast,Breakfast,408,63,EN,"[6,15)",food#quality,POSITIVE,6,15
+– This place is famous for their breakfast.,breakfast,409,63,EN,"[33,42)",food#quality,POSITIVE,33,42
+They have been featured on the food network and they deserve it.,,410,63,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+The food is great and they make a mean bloody mary.,food,411,63,EN,"[4,8)",food#quality,POSITIVE,4,8
+The food is great and they make a mean bloody mary.,bloody mary,411,63,EN,"[39,50)",drinks#quality,POSITIVE,39,50
+I love breakfast here.,breakfast,412,64,EN,"[7,16)",food#quality,POSITIVE,7,16
+Their crab eggs benedict is addicting.,crab eggs benedict,413,64,EN,"[6,24)",food#quality,POSITIVE,6,24
+"All their menu items are a hit, and they serve mimosas.",menu items,414,64,EN,"[10,20)",food#quality,POSITIVE,10,20
+"All their menu items are a hit, and they serve mimosas.",,414,64,EN,"[0,0)",drinks#style_options,POSITIVE,0,0
+Doesn't get any better than that.,,415,64,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+best chinese food i have tasted in a long time,chinese food,416,65,EN,"[5,17)",food#quality,POSITIVE,5,17
+You can easily hear him though so it was a pleasant sound and not overbearing.,,419,65,EN,"[0,0)",ambience#general,POSITIVE,0,0
+the ambiance of the restaurant was nice and good for fine dinning.,ambiance,420,65,EN,"[4,12)",ambience#general,POSITIVE,4,12
+not too fine thought that you feel uncomfortable and have to dress up.,,421,65,EN,"[0,0)",ambience#general,POSITIVE,0,0
+the staff was very nice and courteous and obviously chinese.,staff,422,65,EN,"[4,9)",service#general,POSITIVE,4,9
+"First off, the food came fast and all together :) i like that... i hate the pretentiousness of things coming in one after the other.",,424,65,EN,"[0,0)",service#general,POSITIVE,0,0
+"so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.",prawns,425,65,EN,"[13,19)",food#quality,POSITIVE,13,19
+"so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.",batter,425,65,EN,"[75,81)",food#quality,POSITIVE,75,81
+"so about the prawns, they were fresh and had a slight crispiness about the batter... soooo good... the walnuts were cut in smaller pieces and very crunchy and tasty.",walnuts,425,65,EN,"[103,110)",food#quality,POSITIVE,103,110
+yummy.,,426,65,EN,"[0,0)",food#quality,POSITIVE,0,0
+best honey walnyt prawns that we have every tasted.,honey walnyt prawns,427,65,EN,"[5,24)",food#quality,POSITIVE,5,24
+the brocollis were so fresh and tasty.,brocollis,429,65,EN,"[4,13)",food#quality,POSITIVE,4,13
+"i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.",scallops,430,65,EN,"[150,158)",food#quality,POSITIVE,150,158
+"i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.",prawns,430,65,EN,"[163,169)",food#quality,POSITIVE,163,169
+"i would normally not finish the brocolli when i order these kinds of food but for the first time, every piece was as eventful as the first one... the scallops and prawns was so fresh and nicely cooked.",brocolli,430,65,EN,"[32,40)",food#quality,POSITIVE,32,40
+not chewy at all.,,431,65,EN,"[0,0)",food#quality,POSITIVE,0,0
+for desert we had the mango ginger creme brulee... oh la la yummy!!!,mango ginger creme brulee,432,65,EN,"[22,47)",food#quality,POSITIVE,22,47
+melt in your mouth.,,433,65,EN,"[0,0)",food#quality,POSITIVE,0,0
+we are for sure coming back to this restaurant.,restaurant,434,65,EN,"[36,46)",restaurant#general,POSITIVE,36,46
+"it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel... but they are definitely one you dont want to miss, esp if your in downtown san jose.",,436,65,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Chintzy portions,portions,437,66,EN,"[8,16)",food#style_options,NEGATIVE,8,16
+"– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",sushi,438,66,EN,"[6,11)",food#quality,POSITIVE,6,11
+"– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",restaurant,438,66,EN,"[164,174)",restaurant#prices,NEGATIVE,164,174
+"– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",sushi,438,66,EN,"[6,11)",food#style_options,NEGATIVE,6,11
+"– The sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for NYC).",sushi,438,66,EN,"[6,11)",food#prices,NEGATIVE,6,11
+We easily spent more than $40 per person (not including alcohol) and were still hungry.,,439,66,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+We easily spent more than $40 per person (not including alcohol) and were still hungry.,,439,66,EN,"[0,0)",food#style_options,NEGATIVE,0,0
+I'm astonished that this restaurant is categorized as $$$ rather than $$$$.,restaurant,440,66,EN,"[25,35)",restaurant#prices,NEGATIVE,25,35
+"Terrible service, food ok, pricey",service,441,67,EN,"[9,16)",service#general,NEGATIVE,9,16
+"Terrible service, food ok, pricey",food,441,67,EN,"[18,22)",food#quality,NEUTRAL,18,22
+"Terrible service, food ok, pricey",,441,67,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+We put out name down and although there were open tables we were told that it'd be a 30 minute wait.,,445,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+"We went back to the restaurant and low and behold, we were seated at one of the tables that was available 30 minutes ago!!",,448,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+None that I can think of.,,450,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+"We put in our order and although we ordered 4 appetizers, the food didn't arrive until 45 minutes later...WITH OUR MAIN COURSE.",,451,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+Um so now what are appetizers for???,,452,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+Oh I forgot to mention that they don't have bread service.,,453,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+"My wife also ordered a teapot of hot water (she had a sore throat) and I guess that since it was only water, it wasn't a priority for them to actually bring it.",,455,67,EN,"[0,0)",service#general,NEGATIVE,0,0
+"In other words, if they aren't making $$ off of you then you don't rate high on their 'service scale'.",service,456,67,EN,"[87,94)",service#general,NEGATIVE,87,94
+"Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.",Food,457,67,EN,"[0,4)",food#quality,NEUTRAL,0,4
+"Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.",restaurant,457,67,EN,"[68,78)",restaurant#prices,NEGATIVE,68,78
+"Food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.",restaurant,457,67,EN,"[68,78)",ambience#general,NEUTRAL,68,78
+If I needed to name some they would include the location to the beach or Golden Gate park.,location,459,67,EN,"[48,56)",location#general,POSITIVE,48,56
+Its great if you spent the day there and didn't want to drive to eat.,,460,67,EN,"[0,0)",location#general,POSITIVE,0,0
+"Parking is reasonably good, they have their own lot and you can park in the park nearby.",,461,67,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+Another plus is the open feel of the restaurant with glass walls on all sides.,feel,462,67,EN,"[25,29)",ambience#general,POSITIVE,25,29
+Another plus is the open feel of the restaurant with glass walls on all sides.,glass walls,462,67,EN,"[53,64)",ambience#general,POSITIVE,53,64
+Always good.,,464,68,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+6pm on a Sat before a Broadway play and we were quickly seated and served.,,466,68,EN,"[0,0)",service#general,POSITIVE,0,0
+Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).,Spanish Mackeral special appetizer,467,68,EN,"[8,42)",food#quality,POSITIVE,8,42
+Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).,box sushi,467,68,EN,"[55,64)",food#quality,POSITIVE,55,64
+Amazing Spanish Mackeral special appetizer and perfect box sushi (that eel with avodcao -- um um um).,eel with avodcao,467,68,EN,"[71,87)",food#quality,POSITIVE,71,87
+"As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.",omikase,468,68,EN,"[13,20)",food#quality,POSITIVE,13,20
+"As usual the omikase didn't disappoint in freshness, although it scored low on creativity and selection.",omikase,468,68,EN,"[13,20)",food#style_options,NEGATIVE,13,20
+"Their specialty rolls are impressive, though I can't remember what we had.",specialty rolls,469,68,EN,"[6,21)",food#quality,POSITIVE,6,21
+Great selection of sakes.,selection of sakes,470,68,EN,"[6,24)",drinks#style_options,POSITIVE,6,24
+Green tea creme brulee gets better each time I have it.,Green tea creme brulee,471,68,EN,"[0,22)",food#quality,POSITIVE,0,22
+It isn't the cheapest sushi but has been worth it every time.,sushi,472,68,EN,"[22,27)",food#prices,NEUTRAL,22,27
+It isn't the cheapest sushi but has been worth it every time.,sushi,472,68,EN,"[22,27)",food#quality,POSITIVE,22,27
+Very poor customer service.,customer service,473,69,EN,"[10,26)",service#general,NEGATIVE,10,26
+"– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.",location along the marina in Long Beach,474,69,EN,"[31,70)",location#general,POSITIVE,31,70
+"– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.",food,474,69,EN,"[83,87)",food#quality,NEUTRAL,83,87
+"– Schooner or Later's charming location along the marina in Long Beach and average food does not, unfortunately, compensate for its very poor customer service.",customer service,474,69,EN,"[142,158)",service#general,NEGATIVE,142,158
+"While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.",food,475,69,EN,"[37,41)",food#quality,POSITIVE,37,41
+"While this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.",restaurant staff,475,69,EN,"[47,63)",service#general,NEGATIVE,47,63
+"As part of a small party of four, our food was dropped off without comment;",,476,69,EN,"[0,0)",service#general,NEGATIVE,0,0
+any further needs we may have had could not have been met since no one stopped by the table.,,477,69,EN,"[0,0)",service#general,NEGATIVE,0,0
+"When we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food, who was also not the same person who had taken our order.",,478,69,EN,"[0,0)",service#general,NEGATIVE,0,0
+"After one member of our party had been bumped repeatedly by a waitress, a polite request that he not be bumped sent the waitress into an abusive rant.",waitress,479,69,EN,"[62,70)",service#general,NEGATIVE,62,70
+"A brief conversation with the manager at the end of the meal was the greatest disappointment--to say we had been ""blown off"" would be an understatement.",manager,480,69,EN,"[30,37)",service#general,NEGATIVE,30,37
+"The manager continually interrupted with ""Is there anything else I can do for you?"", a strange comment because she had hardly listened, let alone responded to our expression of disappointment at our experience.",manager,481,69,EN,"[4,11)",service#general,NEGATIVE,4,11
+"She promised to speak to the waitress who had flown off in a rage, but we could hardly take her promise seriously, seeing as she hadn't bothered to get the waitresses name.",,482,69,EN,"[0,0)",service#general,NEGATIVE,0,0
+"In short, Schooner or Later couldn't have cared less about our being at their establishment.",,483,69,EN,"[10,27)",service#general,NEGATIVE,10,27
+you are with a hot date and he/she has an urge for sushi...then this might be the place.,sushi,486,70,EN,"[51,56)",food#quality,POSITIVE,51,56
+"the fish was fresh, though it was cut very thin.",fish,487,70,EN,"[4,8)",food#quality,POSITIVE,4,8
+"the fish was fresh, though it was cut very thin.",fish,487,70,EN,"[4,8)",food#style_options,NEGATIVE,4,8
+great service.,service,488,70,EN,"[6,13)",service#general,POSITIVE,6,13
+good sake selection.,sake selection,489,70,EN,"[5,19)",drinks#style_options,POSITIVE,5,19
+Dungeness crabs here!,Dungeness crabs,490,71,EN,"[0,15)",food#quality,POSITIVE,0,15
+– Ray's is THE place to go for high quality seafood dinners.,seafood dinners,491,71,EN,"[44,59)",food#quality,POSITIVE,44,59
+And they give good quantity for the price.,,492,71,EN,"[0,0)",food#style_options,POSITIVE,0,0
+And they give good quantity for the price.,,492,71,EN,"[0,0)",food#prices,NEUTRAL,0,0
+We were only in Seattle for one night and I'm so glad we picked Rays for dinner!,Rays,493,71,EN,"[64,68)",restaurant#general,POSITIVE,64,68
+I love Dungeness crabs and at Ray's you can get them served in about 6 different ways!,Dungeness crabs,494,71,EN,"[7,22)",food#style_options,POSITIVE,7,22
+We shared the family platter and I especially enjoyed the black cod in sake kasu.,black cod in sake kasu,495,71,EN,"[58,80)",food#quality,POSITIVE,58,80
+I ended the meal with the unusual dessert of a port and chocolate tasting....yummy!,dessert of a port and chocolate tasting,496,71,EN,"[34,73)",food#quality,POSITIVE,34,73
+And the service was simply spendid - quite a delight.,service,497,71,EN,"[8,15)",service#general,POSITIVE,8,15
+Great Breakfast,Breakfast,498,72,EN,"[6,15)",food#quality,POSITIVE,6,15
+"– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",drinks,499,72,EN,"[8,14)",drinks#quality,POSITIVE,8,14
+"– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",corn beef hash,499,72,EN,"[17,31)",food#quality,POSITIVE,17,31
+"– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",coffee,499,72,EN,"[33,39)",drinks#quality,POSITIVE,33,39
+"– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",B Fast burritos,499,72,EN,"[41,56)",food#quality,POSITIVE,41,56
+"– Great drinks , corn beef hash, coffee, B Fast burritos, Gluten Free menu.",menu,499,72,EN,"[70,74)",food#style_options,POSITIVE,70,74
+The service is fantastic at this fun place.,service,500,72,EN,"[4,11)",service#general,POSITIVE,4,11
+The service is fantastic at this fun place.,place,500,72,EN,"[37,42)",restaurant#general,POSITIVE,37,42
+"If there is a line very day of the week for the entire time a place is open, you know it is great.",place,501,72,EN,"[62,67)",restaurant#general,POSITIVE,62,67
+This is the case at this gem.,,502,72,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Best Neighborhood Standby.,Standby,503,73,EN,"[18,25)",restaurant#general,POSITIVE,18,25
+You Can't Go Wrong Here.,,504,73,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+In Grammercy/Union Square/East Village this is my neighbors and my favorite spot.,spot,506,73,EN,"[76,80)",restaurant#general,POSITIVE,76,80
+"The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.",music,507,73,EN,"[4,9)",ambience#general,POSITIVE,4,9
+"The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.",bar tenders,507,73,EN,"[50,61)",drinks#style_options,POSITIVE,50,61
+"The music is great, no night better or worse, the bar tenders are generous with the pouring, and the lighthearted atmosphere will lifts you spirits.",atmosphere,507,73,EN,"[114,124)",ambience#general,POSITIVE,114,124
+"Seriously, you can't go wrong, if it is unpretentious local fun you seek.",,508,73,EN,"[0,0)",ambience#general,POSITIVE,0,0
+"Oh, and the cheese fries are awesome!",cheese fries,509,73,EN,"[12,24)",food#quality,POSITIVE,12,24
+"Good Food, Great Service, Average Prices (For the Strip)",Food,510,74,EN,"[5,9)",food#quality,POSITIVE,5,9
+"Good Food, Great Service, Average Prices (For the Strip)",Service,510,74,EN,"[17,24)",service#general,POSITIVE,17,24
+"Good Food, Great Service, Average Prices (For the Strip)",,510,74,EN,"[0,0)",restaurant#prices,NEUTRAL,0,0
+– I decided to eat at Stack because of their price fixed pre-show dinner.,price fixed pre-show dinner,511,74,EN,"[45,72)",food#prices,NEUTRAL,45,72
+"When I walked in, I was taken aback by their incredible wood decor.",wood decor,512,74,EN,"[56,66)",ambience#general,POSITIVE,56,66
+"The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.",music,513,74,EN,"[4,9)",ambience#general,POSITIVE,4,9
+"The music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.",subwoofer to the sound system,513,74,EN,"[67,96)",ambience#general,NEGATIVE,67,96
+I got the shellfish and shrimp appetizer and it was alright.,shellfish and shrimp appetizer,515,74,EN,"[10,40)",food#quality,NEUTRAL,10,40
+"It wasn't the freshest seafood ever, but the taste and presentation was OK.",seafood,516,74,EN,"[23,30)",food#style_options,NEUTRAL,23,30
+"It wasn't the freshest seafood ever, but the taste and presentation was OK.",seafood,516,74,EN,"[23,30)",food#quality,NEUTRAL,23,30
+"I picked the asparagus, which turned out to be incredible and perfectly prepared.",asparagus,518,74,EN,"[13,22)",food#quality,POSITIVE,13,22
+"The 9 oz steak came next and it tasted great, at least initially.",9 oz steak,520,74,EN,"[4,14)",food#quality,POSITIVE,4,14
+The steak was done to my exact liking (medium rare) and was nice and juicy.,steak,521,74,EN,"[4,9)",food#quality,POSITIVE,4,9
+"It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.",peppercorn sauce,522,74,EN,"[26,42)",food#quality,NEUTRAL,26,42
+"It?s served with either a peppercorn sauce or red wine reduction, though both were indistinguishable in taste.",red wine reduction,522,74,EN,"[46,64)",food#quality,NEUTRAL,46,64
+"Though, one thing I realized later on was that the restaurant either used MSG or a meat tenderizer on the steak.",steak,523,74,EN,"[106,111)",food#quality,NEGATIVE,106,111
+My mouth felt very dry afterwards and I had that signature ?MSG? taste lingering in my throat after I left the restaurant.,,524,74,EN,"[0,0)",food#quality,NEGATIVE,0,0
+They came in their own nifty take out box and with some homemade frosting; very light and not-too-sweet.,,526,74,EN,"[0,0)",food#quality,POSITIVE,0,0
+The desert was the perfect ending to an almost perfect dinner.,desert,527,74,EN,"[4,10)",food#quality,POSITIVE,4,10
+The desert was the perfect ending to an almost perfect dinner.,dinner,527,74,EN,"[55,61)",food#quality,POSITIVE,55,61
+"The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).",,528,74,EN,"[0,0)",restaurant#prices,NEUTRAL,0,0
+"The dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).",,528,74,EN,"[0,0)",service#general,POSITIVE,0,0
+But the servers were extremely attentive and very friendly.,servers,529,74,EN,"[8,15)",service#general,POSITIVE,8,15
+"Overall, I would go back and eat at the restaurant again.",restaurant,530,74,EN,"[40,50)",restaurant#general,POSITIVE,40,50
+Just remember to dress a little urban-chic so you don?t look too far out of place.,,531,74,EN,"[0,0)",restaurant#miscellaneous,NEUTRAL,0,0
+"good sake, good food – i honestly don't know much about japanese food at all.",sake,532,75,EN,"[5,9)",drinks#quality,POSITIVE,5,9
+"good sake, good food – i honestly don't know much about japanese food at all.",food,532,75,EN,"[16,20)",food#quality,POSITIVE,16,20
+Server made several sake suggestions which were very good.,sake,534,75,EN,"[20,24)",drinks#quality,POSITIVE,20,24
+Server made several sake suggestions which were very good.,Server,534,75,EN,"[0,6)",service#general,POSITIVE,0,6
+had many dishes but the BEST was the lobster 3 ways.,lobster 3 ways,535,75,EN,"[37,51)",food#quality,POSITIVE,37,51
+VERY GOOD!,,536,75,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Overpriced,,537,76,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+Waited 35 minutes for a table for 8 which was ok for such a big crowd.,,539,76,EN,"[0,0)",service#general,NEUTRAL,0,0
+The waiter was a bit unfriendly and the feel of the restaurant was crowded.,waiter,540,76,EN,"[4,10)",service#general,NEGATIVE,4,10
+The waiter was a bit unfriendly and the feel of the restaurant was crowded.,feel,540,76,EN,"[40,44)",ambience#general,NEGATIVE,40,44
+"Also, there was only one bathroom stall- probably need more for such big crowds.",bathroom stall,541,76,EN,"[25,39)",restaurant#miscellaneous,NEGATIVE,25,39
+"Most importantly, we were so excited about the food after seeing the very creative menu.",menu,542,76,EN,"[83,87)",food#style_options,POSITIVE,83,87
+"At best, the food was good and definately overpriced.",food,543,76,EN,"[13,17)",food#quality,NEUTRAL,13,17
+"At best, the food was good and definately overpriced.",food,543,76,EN,"[13,17)",food#prices,NEGATIVE,13,17
+For the amount of food we got the prices should have been lower.,food,544,76,EN,"[18,22)",food#style_options,NEGATIVE,18,22
+For the amount of food we got the prices should have been lower.,food,544,76,EN,"[18,22)",food#prices,NEGATIVE,18,22
+Not sure if I would go back.,,545,76,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+My favortie pizza joint in Seattle,pizza joint,546,77,EN,"[12,23)",restaurant#general,POSITIVE,12,23
+"– This is my ""must bring out of town guests to"" restaurant and they always enjoy and rave about it.",restaurant,547,77,EN,"[48,58)",restaurant#general,POSITIVE,48,58
+"In fact, many want to return a second time during their visit.",,548,77,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+The pizza is delicious and the salads are fantastic.,pizza,549,77,EN,"[4,9)",food#quality,POSITIVE,4,9
+The pizza is delicious and the salads are fantastic.,salads,549,77,EN,"[31,37)",food#quality,POSITIVE,31,37
+"I've always found the wait staff and, if you sit at the bar, the cooks very friendly.",wait staff,550,77,EN,"[22,32)",service#general,POSITIVE,22,32
+"I've always found the wait staff and, if you sit at the bar, the cooks very friendly.",cooks,550,77,EN,"[65,70)",service#general,POSITIVE,65,70
+"They aren't the most talkative, but everytime I've been there they have been very busy, which probably accounts for the lack of conversation.",,551,77,EN,"[0,0)",service#general,NEUTRAL,0,0
+I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.,decor,552,77,EN,"[42,47)",ambience#general,POSITIVE,42,47
+I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.,feeling,552,77,EN,"[61,68)",ambience#general,POSITIVE,61,68
+It's just the right size for the menu.,,553,77,EN,"[0,0)",restaurant#miscellaneous,POSITIVE,0,0
+Excellent,,554,78,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– My husband and I love eating at Mioposto Café.,Mioposto Café,555,78,EN,"[34,47)",restaurant#general,POSITIVE,34,47
+We’re can’t say enough about their delicious gourmet pizza’s!,pizza’s,556,78,EN,"[53,60)",food#quality,POSITIVE,53,60
+You won’t be disappointed by their menu.,menu,557,78,EN,"[35,39)",food#style_options,POSITIVE,35,39
+The pizza’s are thin crust and the menu offers very creative combinations and toppings.,menu,558,78,EN,"[35,39)",food#style_options,POSITIVE,35,39
+The pizza’s are thin crust and the menu offers very creative combinations and toppings.,pizza’s,558,78,EN,"[4,11)",food#style_options,POSITIVE,4,11
+You never feel icky and stuffed after you eat there.,,559,78,EN,"[0,0)",food#quality,POSITIVE,0,0
+The pizza’s are light and scrumptious.,pizza’s,560,78,EN,"[4,11)",food#quality,POSITIVE,4,11
+Try the Pizza Ensalata!,Pizza Ensalata,561,78,EN,"[8,22)",food#quality,POSITIVE,8,22
+Absolutely delicious.,,563,78,EN,"[0,21)",food#quality,POSITIVE,0,21
+The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.,pizza’s,564,78,EN,"[4,11)",food#style_options,NEUTRAL,4,11
+The pizza’s are not huge and the crust is thin…keep that in mind when you’re ordering.,crust,564,78,EN,"[33,38)",food#style_options,NEUTRAL,33,38
+Worth the wait,,565,79,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"– Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.",,566,79,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+"– Had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.",,566,79,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+The food is sinful.,food,567,79,EN,"[4,8)",food#quality,POSITIVE,4,8
+The staff was really friendly.,staff,568,79,EN,"[4,9)",service#general,POSITIVE,4,9
+The atmosphere was great.,atmosphere,569,79,EN,"[4,14)",ambience#general,POSITIVE,4,14
+"The specialty here is decadent pancakes, but I've been back now four times, and I've been wowed every time.",pancakes,570,79,EN,"[31,39)",food#quality,POSITIVE,31,39
+Nothing on the menu is less than amazing.,menu,571,79,EN,"[15,19)",food#quality,POSITIVE,15,19
+"Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.",breakfast,572,79,EN,"[99,108)",food#quality,POSITIVE,99,108
+"Go with some friends, wait the half hour or so with a cup of joe, and enjoy more than your average breakfast.",,572,79,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Good eats.,eats,573,79,EN,"[5,9)",food#quality,POSITIVE,5,9
+I don't know why anyone would want to write a great review about this place.,place,576,80,EN,"[70,75)",restaurant#general,NEGATIVE,70,75
+"I have been to this place, folks and it is BAD.",place,577,80,EN,"[20,25)",restaurant#general,NEGATIVE,20,25
+Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that's half-way decent.,fish,578,80,EN,"[85,89)",food#quality,NEGATIVE,85,89
+"I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.",chef special dinner,579,80,EN,"[43,62)",food#quality,NEGATIVE,43,62
+"I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.",chef special dinner,579,80,EN,"[43,62)",food#prices,NEGATIVE,43,62
+Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.,plate,580,80,EN,"[45,50)",food#prices,NEGATIVE,45,50
+Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.,exotic fish,580,80,EN,"[16,27)",food#quality,NEGATIVE,16,27
+Fancy pieces of exotic fish on a $100 dollar plate and NOT ONE was eatable.,exotic fish,580,80,EN,"[16,27)",food#style_options,NEGATIVE,16,27
+DONOT GO!,,581,80,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Delicious,,582,81,EN,"[0,0)",food#quality,POSITIVE,0,0
+– The atmosphere is great for any special occasion you might want to celebrate.,atmosphere,583,81,EN,"[6,16)",ambience#general,POSITIVE,6,16
+The best dish are the honwy walnut prawns- just outstanding.,honwy walnut prawns,584,81,EN,"[22,41)",food#quality,POSITIVE,22,41
+The service is really attentive and charming.,service,585,81,EN,"[4,11)",service#general,POSITIVE,4,11
+We waited for an hour to be seated.,,589,82,EN,"[0,0)",service#general,NEGATIVE,0,0
+"The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.",service,590,82,EN,"[4,11)",service#general,POSITIVE,4,11
+"The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.",coffee,590,82,EN,"[31,37)",drinks#quality,POSITIVE,31,37
+"The service was excellent, the coffee was good even by starbucks standards and the food was outstanding.",food,590,82,EN,"[83,87)",food#quality,POSITIVE,83,87
+It was worth the wait.,,591,82,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Plan on waiting 30-70 minutes.,,592,82,EN,"[0,0)",service#general,NEUTRAL,0,0
+Will definitely be back.,,593,82,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+Delicious...!,,595,83,EN,"[0,0)",food#quality,POSITIVE,0,0
+– I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.,restaurant,596,83,EN,"[59,69)",restaurant#general,POSITIVE,59,69
+"The food is fantastic, authentic, delicious and very, very affordable.",food,597,83,EN,"[4,8)",food#quality,POSITIVE,4,8
+"The food is fantastic, authentic, delicious and very, very affordable.",food,597,83,EN,"[4,8)",food#prices,POSITIVE,4,8
+The decor was beautiful and unique.,decor,598,83,EN,"[4,9)",ambience#general,POSITIVE,4,9
+"There was a really nice vibe about the place...good music, atmosphere and happy looking people.",music,599,83,EN,"[52,57)",ambience#general,POSITIVE,52,57
+"There was a really nice vibe about the place...good music, atmosphere and happy looking people.",atmosphere,599,83,EN,"[59,69)",ambience#general,POSITIVE,59,69
+"There was a really nice vibe about the place...good music, atmosphere and happy looking people.",vibe,599,83,EN,"[24,28)",ambience#general,POSITIVE,24,28
+"There was a really nice vibe about the place...good music, atmosphere and happy looking people.",people,599,83,EN,"[88,94)",restaurant#miscellaneous,POSITIVE,88,94
+Our server was very professional and friendly.,server,600,83,EN,"[4,10)",service#general,POSITIVE,4,10
+To the owners of Open Sesame...Bravo...I can't wait to come back to dine at your restaurant!,Open Sesame,601,83,EN,"[17,28)",restaurant#general,POSITIVE,17,28
+Delectable ,,602,84,EN,"[0,0)",food#quality,POSITIVE,0,0
+It's a tiny place so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.,place,603,84,EN,"[12,17)",restaurant#miscellaneous,NEUTRAL,12,17
+"Once you're inside, the real experience begins.",,604,84,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+"Everything, and I mean everything on the menu is delectable.",menu,605,84,EN,"[41,45)",food#quality,POSITIVE,41,45
+The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa.,waiters,606,84,EN,"[4,11)",service#general,POSITIVE,4,11
+"The sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!",sushi,607,84,EN,"[4,9)",food#quality,POSITIVE,4,9
+"If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...",,608,84,EN,"[0,0)",food#quality,POSITIVE,0,0
+"If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...",portions,608,84,EN,"[78,86)",food#style_options,POSITIVE,78,86
+"If you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...",sushi dishes,608,84,EN,"[100,112)",food#style_options,POSITIVE,100,112
+big thick pepperoni,pepperoni,609,85,EN,"[10,19)",food#style_options,POSITIVE,10,19
+– The pepperoni's cut real thick--Yum.,pepperoni's,610,85,EN,"[6,17)",food#style_options,POSITIVE,6,17
+"The pizza itself is not exactly the best I've had EVER, but still pretty good.",pizza,611,85,EN,"[4,9)",food#quality,POSITIVE,4,9
+I probably wouldn't go back though 'cuz I don't know if it's worth it.,,612,85,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Maybe I'll go back once more many years from now when I've forgotten I went there already.,,613,85,EN,"[0,0)",restaurant#general,NEGATIVE,0,0
+Sit in the Balcony,Balcony,614,86,EN,"[11,18)",ambience#general,POSITIVE,11,18
+– Not bad.,,615,86,EN,"[0,0)",restaurant#general,NEUTRAL,0,0
+Food was good and appetizing.,Food,616,86,EN,"[0,4)",food#quality,POSITIVE,0,4
+"Portions was just enough for me, but may not be for a big eater.",Portions,617,86,EN,"[0,8)",food#style_options,NEUTRAL,0,8
+Fair menu selection.,menu selection,618,86,EN,"[5,19)",food#style_options,NEUTRAL,5,19
+"The appetizer was interesting, but the Creme Brulee was very savory and delicious.",appetizer,619,86,EN,"[4,13)",food#quality,POSITIVE,4,13
+"The appetizer was interesting, but the Creme Brulee was very savory and delicious.",Creme Brulee,619,86,EN,"[39,51)",food#quality,POSITIVE,39,51
+Indoor ambience was modern.,Indoor ambience,620,86,EN,"[0,15)",ambience#general,POSITIVE,0,15
+"If it's nice outside, request for a table in the balcony.",balcony,621,86,EN,"[49,56)",ambience#general,POSITIVE,49,56
+It's a great place to people watch.,place,622,86,EN,"[13,18)",restaurant#miscellaneous,POSITIVE,13,18
+Although the service could be improved considering the money you put in.,service,623,86,EN,"[13,20)",service#general,NEGATIVE,13,20
+Although the service could be improved considering the money you put in.,,623,86,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+Our drinks kept coming but our server came by a couple times.,server,624,86,EN,"[31,37)",service#general,NEGATIVE,31,37
+Our drinks kept coming but our server came by a couple times.,,624,86,EN,"[0,0)",service#general,POSITIVE,0,0
+"Should check-up on us more frequently, don't you think?",,625,86,EN,"[0,0)",service#general,NEGATIVE,0,0
+Late night dinning with exeptional food.,food,626,87,EN,"[35,39)",food#quality,POSITIVE,35,39
+"We were seated right away, the table was private and nice.",,629,87,EN,"[0,0)",service#general,POSITIVE,0,0
+"We were seated right away, the table was private and nice.",table,629,87,EN,"[31,36)",ambience#general,POSITIVE,31,36
+The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.,service,630,87,EN,"[4,11)",service#general,POSITIVE,4,11
+The service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters.,waiters,630,87,EN,"[103,110)",service#general,POSITIVE,103,110
+"The food was very good, filet mignon was probably the best I've ever try.",food,631,87,EN,"[4,8)",food#quality,POSITIVE,4,8
+"The food was very good, filet mignon was probably the best I've ever try.",filet mignon,631,87,EN,"[24,36)",food#quality,POSITIVE,24,36
+"The portions are big though, so do not order too much.",portions,632,87,EN,"[4,12)",food#style_options,NEUTRAL,4,12
+Groovy music made the dinner casual.,music,633,87,EN,"[7,12)",ambience#general,POSITIVE,7,12
+The most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places.,,634,87,EN,"[0,0)",restaurant#prices,POSITIVE,0,0
+I have a but here - there was a bathroom attendant in the restroom which was odd.,restroom,635,87,EN,"[58,66)",restaurant#miscellaneous,NEGATIVE,58,66
+"The bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.",bathroom,636,87,EN,"[4,12)",restaurant#miscellaneous,NEGATIVE,4,12
+I felt ackward and next time went to the casino bathroom.,,638,87,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+This place rocks!!,place,639,88,EN,"[5,10)",restaurant#general,POSITIVE,5,10
+"– Mercedes restaurant is so tasty, the service is undeniably awesome!",service,640,88,EN,"[39,46)",service#general,POSITIVE,39,46
+"– Mercedes restaurant is so tasty, the service is undeniably awesome!",,640,88,EN,"[2,21)",food#quality,POSITIVE,2,21
+"The chips  and salsa are so yummy, and the prices are fabulous.",chips  and salsa,641,88,EN,"[4,20)",food#quality,POSITIVE,4,20
+"The chips  and salsa are so yummy, and the prices are fabulous.",,641,88,EN,"[0,0)",restaurant#prices,POSITIVE,0,0
+"The atmosphere is aspiring, and  the decor is festive and amazing..",atmosphere,642,88,EN,"[4,14)",ambience#general,POSITIVE,4,14
+"The atmosphere is aspiring, and  the decor is festive and amazing..",decor,642,88,EN,"[37,42)",ambience#general,POSITIVE,37,42
+"The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!",Raouls chicken vegetable soup,643,88,EN,"[39,68)",food#quality,POSITIVE,39,68
+"The catering is out of this world, and Raouls chicken vegetable soup rocks my world!!!",catering,643,88,EN,"[4,12)",food#quality,POSITIVE,4,12
+"Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.",Drinks,644,88,EN,"[0,6)",drinks#quality,POSITIVE,0,6
+"Drinks are suberb, and I feel like I am in a Third World country when I walk in the door.",,644,88,EN,"[0,0)",ambience#general,POSITIVE,0,0
+Insultingly Overpriced,,645,89,EN,"[0,0)",restaurant#prices,NEGATIVE,0,0
+- Mediocre Service/Quality,Service,646,89,EN,"[11,18)",service#general,NEUTRAL,11,18
+The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.,Snooze,648,89,EN,"[20,26)",ambience#general,POSITIVE,20,26
+The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.,menu,648,89,EN,"[199,203)",food#style_options,NEGATIVE,199,203
+The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced IHOP with a high brow menu.,Snooze,648,89,EN,"[20,26)",restaurant#prices,NEGATIVE,20,26
+"To start off, approximately 8-10 oz of orange juice will cost you $3.",orange juice,649,89,EN,"[39,51)",drinks#prices,NEGATIVE,39,51
+"They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.",juice,650,89,EN,"[104,109)",drinks#style_options,NEGATIVE,104,109
+"They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.",juice,650,89,EN,"[104,109)",drinks#prices,NEGATIVE,104,109
+I should have just asked for the check when I saw that; but their menu was so unique that I continued.,menu,651,89,EN,"[66,70)",food#style_options,POSITIVE,66,70
+"The pancakes were certainly inventive but $8.50 for 3 - 6"" pancakes (one of them was more like 5"") in the pancake flight (sample of 3 different pancakes) is well over-priced.",pancakes,652,89,EN,"[4,12)",food#style_options,POSITIVE,4,12
+"The pancakes were certainly inventive but $8.50 for 3 - 6"" pancakes (one of them was more like 5"") in the pancake flight (sample of 3 different pancakes) is well over-priced.",pancakes,652,89,EN,"[4,12)",food#prices,NEGATIVE,4,12
+"The pancakes were certainly inventive but $8.50 for 3 - 6"" pancakes (one of them was more like 5"") in the pancake flight (sample of 3 different pancakes) is well over-priced.",pancakes,652,89,EN,"[4,12)",food#style_options,NEGATIVE,4,12
+"The pancakes should be larger (at least 8"") to justify the expense even with the unique offerings.",pancakes,653,89,EN,"[4,12)",food#style_options,NEGATIVE,4,12
+"The pancakes should be larger (at least 8"") to justify the expense even with the unique offerings.",pancakes,653,89,EN,"[4,12)",food#prices,NEGATIVE,4,12
+"On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.",eggs,655,89,EN,"[33,37)",food#quality,NEGATIVE,33,37
+"On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if I hadn't rejected the meal all together.",meal,655,89,EN,"[6,10)",food#quality,NEGATIVE,6,10
+I rejected it because in the process of attempting to fix the eggs they broke something else in the dish and I was too frustrated to continue.,dish,656,89,EN,"[100,104)",food#quality,NEGATIVE,100,104
+To their credit they removed the dish from the check; but no manager stopped by to ask what the problem was.,manager,657,89,EN,"[61,68)",service#general,NEGATIVE,61,68
+To their credit they removed the dish from the check; but no manager stopped by to ask what the problem was.,,657,89,EN,"[0,0)",service#general,POSITIVE,0,0
+"In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).",pancakes,658,89,EN,"[45,53)",food#style_options,NEGATIVE,45,53
+"In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).",pancakes,658,89,EN,"[45,53)",food#prices,NEGATIVE,45,53
+"In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).",breakfast burrito,658,89,EN,"[57,74)",food#prices,NEGATIVE,57,74
+"In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).",orange juice,658,89,EN,"[79,91)",drinks#prices,NEGATIVE,79,91
+"In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).",iced tea,658,89,EN,"[99,107)",drinks#prices,NEGATIVE,99,107
+Much more than just a great view!,view,661,90,EN,"[28,32)",location#general,POSITIVE,28,32
+Much more than just a great view!,,661,90,EN,"[0,0)",restaurant#general,POSITIVE,0,0
+– I am exceedingly pleased to report that my dinner at Ray's Boathouse last Friday completely exceeded my expectations.,Ray's Boathouse,662,90,EN,"[55,70)",restaurant#general,POSITIVE,55,70
+"Ray's is something of a Seattle institution, but given its gorgeous Sound views, I had suspected that the accolades were more due to the scenery than to the food and service.",Sound views,663,90,EN,"[68,79)",location#general,POSITIVE,68,79
+Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!,views,664,90,EN,"[48,53)",location#general,POSITIVE,48,53
+Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's!,Ray's,664,90,EN,"[90,95)",restaurant#general,POSITIVE,90,95
+"To start things off, our lovely server Brooke was quickly on hand to take my drink order.",Brooke,665,90,EN,"[39,45)",service#general,POSITIVE,39,45
+"My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.",white gulf prawns,666,90,EN,"[130,147)",food#style_options,POSITIVE,130,147
+"My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.",manila clams,666,90,EN,"[187,199)",food#quality,POSITIVE,187,199
+"My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.",soy dressing,666,90,EN,"[240,252)",food#quality,POSITIVE,240,252
+"My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.",butter sauce,666,90,EN,"[303,315)",food#quality,POSITIVE,303,315
+"My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.",Shilshole Sampler,666,90,EN,"[75,92)",food#quality,POSITIVE,75,92
+"My party of two was feeling particularly ambitious, and we splurged on the Shilshole Sampler...a beautiful assortment of enormous white gulf prawns, smoked albacore tuna, Ray's fantastic manila clams seasoned with dill, scallops in a tasty soy dressing, and a tiny pile of Dungeness crab atop a sublime butter sauce.",Shilshole Sampler,666,90,EN,"[75,92)",food#style_options,POSITIVE,75,92
+"For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.",seared Alaskan sea scallops,667,90,EN,"[47,74)",food#quality,POSITIVE,47,74
+"For my entr&eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.",seared Alaskan sea scallops,667,90,EN,"[47,74)",food#style_options,POSITIVE,47,74
+The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).,scallops,668,90,EN,"[4,12)",food#quality,POSITIVE,4,12
+The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).,scallops,668,90,EN,"[4,12)",food#style_options,POSITIVE,4,12
+My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.,grilled Alaskan King Salmon,669,90,EN,"[22,49)",food#quality,POSITIVE,22,49
+My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.,creamed Washington russet potatoes,669,90,EN,"[66,100)",food#quality,POSITIVE,66,100
+My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans.,green beans,669,90,EN,"[111,122)",food#quality,POSITIVE,111,122
+"I had a taste of all three items on her plate, and they were superb.",plate,670,90,EN,"[40,45)",food#quality,POSITIVE,40,45
+"Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?",server,671,90,EN,"[4,10)",service#general,POSITIVE,4,10
+"Our server continued to be attentive throughout the night, but I did remain puzzled by one issue:  Who thinks that Ray's is an appropriate place to take young children for dinner?",Ray's,671,90,EN,"[115,120)",restaurant#miscellaneous,NEUTRAL,115,120
+Two rascally kids were seated near us for the first part of our dinner...they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table.,,672,90,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+"All considered, I have to say that Ray's Boathouse is deserving of its title as a Seattle institution.",Ray's Boathouse,674,90,EN,"[35,50)",restaurant#general,POSITIVE,35,50
+"While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.",server,675,90,EN,"[88,94)",service#general,POSITIVE,88,94
+"While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.",food,675,90,EN,"[99,103)",food#quality,POSITIVE,99,103
+"While I could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.",,675,90,EN,"[0,0)",restaurant#miscellaneous,NEGATIVE,0,0
+"Oh yeah...the view was good, too.",view,676,90,EN,"[14,18)",location#general,POSITIVE,14,18

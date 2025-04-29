@@ -1,3 +1,4 @@
+#!/opt/conda/envs/py310/bin/python
 for DATASET_NAME in semeval15 semeval16
 do
   python3 -m acsa_add_one.generate_train_dataset -d $DATASET_NAME

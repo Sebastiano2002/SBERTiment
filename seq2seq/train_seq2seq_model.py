@@ -14,5 +14,5 @@ if __name__ == '__main__':
     model.fit(
         input_text, output_text,
         output_path='data/trained_models/seq2seq_{}_model'.format(args.dataset),
-        per_device_train_batch_size=9, learning_rate=0.0001, epochs=10, seed=42,
+        per_device_train_batch_size=9, learning_rate=0.0001, epochs=2, seed=42,
         early_stop=False)

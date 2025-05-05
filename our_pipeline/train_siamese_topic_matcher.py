@@ -20,6 +20,6 @@ if __name__ == '__main__':
     dataloader = DataLoader(inputs, shuffle=False, batch_size=16)
     train_loss = losses.ContrastiveLoss(model)
     model.fit(
-        train_objectives=[(dataloader, train_loss)], epochs=6, warmup_steps=0,
+        train_objectives=[(dataloader, train_loss)], epochs=2, warmup_steps=0,
         output_path='data/trained_models/siamese_{}_contrastive_loss'.format(args.dataset),
         show_progress_bar=True, checkpoint_save_steps=3000)

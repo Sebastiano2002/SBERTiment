@@ -15,5 +15,5 @@ if __name__ == '__main__':
     model = BertClassifier(pre_trained_model)
     model.fit(
         texts, labels, output_path='data/trained_models/acsa_add_one_{}_model'.format(args.dataset),
-        per_device_train_batch_size=16, learning_rate=0.0001, epochs=8,
+        per_device_train_batch_size=16, learning_rate=0.0001, epochs=3,
         early_stop=False, newtrain=True)
